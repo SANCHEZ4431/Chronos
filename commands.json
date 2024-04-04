@@ -1,0 +1,22 @@
+{
+  "categories": {
+    "Plugin For Fun": "Команды для развлечения",
+    "Plugin Mini-Game Associations": "Команды для мини-игры Associations",
+    "Plugin Mini-Game Auctions": "Команды для мини-игры Auctions",
+    "Plugin Mini-Game Hangman": "Команды для мини-игры Hangman",
+    "Plugin Level System": "Команды для управления уровнем",
+    "Plugin Search Player's LoL": "Команды для поиска информации об игроках LoL",
+    "Plugin System Settings Chronos": "Команды для управления настройками системы Chronos",
+    "Utility": "Утилитарные команды"
+  },
+  "commands": {
+    "command1": {
+      "description": "Описание команды 1",
+      "category": "Plugin For Fun"
+    },
+    "command2": {
+      "description": "Описание команды 2",
+      "category": "Plugin Mini-Game Hangman"
+    },
+  }
+}
