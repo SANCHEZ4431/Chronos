@@ -10,13 +10,13 @@
     "Utility": "Утилитарные команды"
   },
   "commands": {
-    "command1": {
-      "description": "Описание команды 1",
+    "!fact": {
+      "description": "Рандомный факт дня",
       "category": "Plugin For Fun"
     },
-    "command2": {
-      "description": "Описание команды 2",
-      "category": "Plugin Mini-Game Hangman!"
+    "!joke": {
+      "description": "Рандомная шутка",
+      "category": "Plugin For Fun"
     }
   }
 }
