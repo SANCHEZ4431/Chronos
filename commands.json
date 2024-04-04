@@ -1,21 +1,58 @@
 {
   "categories": {
-    "Plugin For Fun": "Команды для развлечения {Disabled}",
-    "Plugin Mini-Game Associations": "Команды для мини-игры Associations",
-    "Plugin Mini-Game Auctions": "Команды для мини-игры Auctions"
+    "Plugin For Fun": "Команды для развлечения",
+    "Plugin Mini-Game Associations": "Команды для мини-игры Associations ***__{Disabled}__***",
+    "Plugin Mini-Game Auctions": "Команды для мини-игры Auctions",
+    "Plugin Mini-Game Hangman": "Команды для мини-игры Hangman",
+    "Plugin Level System": "Команды Системы Уровней",
+    "Plugin Search Player's LoL": "Команда для поиска игрока LoL",
+    "Plugin System Settings Chronos": "Команда для настройки Chronos",
+    "Utility": "Утилиты Chronos"
   },
   "commands": {
     "Plugin For Fun": {
-      "command1": "Описание команды 1!",
-      "command2": "Описание команды 2"
+      "!fact": "Рандомный факт дня",
+      "!joke": "Рандомная шутка"
     },
     "Plugin Mini-Game Associations": {
-      "command3": "Описание команды 3",
-      "command4": "Описание команды 4"
+      "!start": "Начать новую игру в ассоциации",
+      "!guess": "Угадать слово по ассоциациям",
+      "!add": "Добавить слово и его ассоциации",
+      "!remove": "Удалить слово и его ассоциации",
+      "!export": "Экспортировать слова и ассоциации в файл",
+      "!update": "Обновить файл ассоциаций",
+      "!decrypt": "Расшифровать файл по ID",
     },
     "Plugin Mini-Game Auctions": {
-      "command5": "Описание команды 5",
-      "command6": "Описание команды 6"
+      "!start_auction": "Начать аункцион",
+      "!price": "Сделать ставку",
+      "!end_auction": "Завершить аукцион",
+      "!list_items": "Магазин предметов",
+      "!buy_item": "Купить предмет по его ID",
+      "!balance": "Проверка баланса",
+      "!work": "Работа для аукциона",
+      "!daily_reward": "Узнать ежедневных доход"
+    },
+    "Plugin Mini-Game Hangman": {
+      "!start_hangman": "Начать новую игру в виселицу",
+      "!guess_hangman": "Угадать букву в слове",
+      "!addword": "Добавить слово в список слов для игры",
+      "!exportwords": "Экспортировать слова в файл",
+      "!sendkey": "Отправить ключ расшифровки разработчику"
+    },
+     "Plugin Level System": {
+      "!boost_xp_activate": "Активация удваивания опыта(Доступно разработчику)",
+      "!boost_xp_deactivate": "Деактивация удваивания опыта(Доступно разработчику)",
+      "!my_lvl": "Проверить свой уровень",
+      "!leaderboard": "Проверить таблицу лидеров"
+    },
+    "Plugin Search Player's LoL": {
+      "!summoner": "Поиск указанного игрока League of Legends"
+    },
+    "Utility": {
+      "!test_emoji": "Отправить все эмоджи сервера в виде вебхуков",
+      "!export_users_data": "Экспорт всех юзеров и UserID в файл",
+      "clear": "Удаления указанного количества сообщений(Доступно ролям, имеющие права **Упарвления сообщениями**)"
     }
   }
 }
