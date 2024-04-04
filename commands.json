@@ -11,11 +11,11 @@
   },
   "commands": {
     "command1": {
-      "description": "Описание команды 1",
+      "description": "Desc command 1",
       "category": "Plugin For Fun"
     },
     "command2": {
-      "description": "Описание команды 2",
+      "description": "Desc command 2",
       "category": "Plugin Mini-Game Hangman"
     },
   }
