@@ -16,7 +16,7 @@
     },
     "command2": {
       "description": "Описание команды 2",
-      "category": "Plugin Mini-Game Hangman"
+      "category": "Plugin Mini-Game Hangman!"
     }
   }
 }
