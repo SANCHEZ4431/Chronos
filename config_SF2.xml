@@ -197,7 +197,7 @@
 			<item PutUrl="https://sf2windowsstore.nekkimobile.ru/put.php" GetUrl="https://sf2windowsstore.nekkimobile.ru/get.php" PlatformID="5" />
 		</server>
 		<verification Url="https://payservice.nekkimobile.ru" Timeout="15000" MaxRetry="2" Frequency="1" />
-	<raids configUrl="https://raw.githubusercontent.com/SANCHEZ4431/Chronos/main/raid_configs_all.zip" />
+	<raids configUrl="https://assets.nekkimobile.ru/raid_configs/qa/raid_configs_all.zip" />
 		<ledger Url="https://ledger.nekkimobile.ru/" Timeout="5000" MaxRetry="2" />
 	</settings>
 	<packs>
