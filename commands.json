@@ -50,8 +50,21 @@
     "Plugin Search Player's LoL": {
       "!summoner": "Поиск указанного игрока League of Legends"
     },
-    "plug": {
-      "!summoner": "Поиск указанного игрока League of Legends"
+    "Plugin System Sending": {
+      "!send_telegram": "Отправка сообщения с Дискорда в Телеграм(\nПример: !send_telegram [ID чата] [Текст])",
+      "!export_chat_ids": "Экспорт ID чатов Телеграм в базу данных",
+      "!send_exported_ids": "Отправка экспортированных ID чатов в чат ввиде файла"
+    },
+    "Plugin System Settings": {
+      "!export_server_settings": "Экспортировать настройки всех серверов",
+      "!set_welcome_channel": "Установка канала для приветствия",
+      "!set_auto_role": "Установка роли для выдачи новым юзерам",
+      "!set_logs_channel": "Установка канала для логов",
+      "!change_logs_channel": "Смена канала для логов",
+      "!remove_logs_channel": "Убрать отправку логов",
+      "!remove_auto_role": "Убрать автороль",
+      "!save_config_lvl": "Сохранить данные уровней в базу данных",
+      "!switch_language": "Сменить язык сервера"
     },
     "Utility": {
       "!test_emoji": "Отправить все эмоджи сервера в виде вебхуков",
