@@ -4,6 +4,7 @@
     "Plugin Mini-Game Associations": "Команды для мини-игры Associations",
     "Plugin Mini-Game Auctions": "Команды для мини-игры Auctions ***__{Disabled}__***",
     "Plugin Mini-Game Hangman": "Команды для мини-игры Hangman",
+    "Plugin Mini-Game Slots": "Команды для мини-игры Казино-Слоты",
     "Plugin Level System": "Команды Системы Уровней",
     "Plugin Search Player's LoL": "Команда для поиска игрока LoL",
     "Plugin System Settings Chronos": "Команда для настройки Chronos",
@@ -26,7 +27,7 @@
       "!update": "Обновить файл ассоциаций",
       "!decrypt": "Расшифровать файл по ID"
     },
-    "Plugin Mini-Game Auctions": {
+    "Plugin Mini-Game Auctions(deleted)": {
       "!start_auction": "Начать аункцион",
       "!price": "Сделать ставку",
       "!end_auction": "Завершить аукцион",
@@ -42,6 +43,13 @@
       "!addword": "Добавить слово в список слов для игры",
       "!exportwords": "Экспортировать слова в файл",
       "!sendkey": "Отправить ключ расшифровки разработчику"
+    },
+    "Plugin Mini-Game Slots": {
+      "!balance_slots": "Проверить баланс в Слотах",
+      "!slots": "Начать игру в Слоты",
+      "!export_slots_data": "Экспорт данных Слотов в файл",
+      "!import_slots_data": "Импорт данных Слотов в базу данных ***(Доступно Администраторам)***",
+      "!add_currency_slots": "Добавление указанной суммы валюты упомянутому пользователю ***(Доступно Администраторам)***"
     },
      "Plugin Level System": {
       "!boost_xp_activate": "Активация удваивания опыта(Доступно разработчику)",
