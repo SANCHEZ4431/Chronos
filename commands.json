@@ -14,11 +14,11 @@
     "Utility": "Утилиты Chronos"
   },
   "commands": {
-    "Plugin For Fun": {
+    "Plugin For Fun_Disabled": {
       "!fact": "Рандомный факт дня",
       "!joke": "Рандомная шутка"
     },
-    "Plugin Mini-Game Associations": {
+    "Plugin Mini-Game Associations_Disabled": {
       "!start": "Начать новую игру в ассоциации",
       "!guess": "Угадать слово по ассоциациям",
       "!add": "Добавить слово и его ассоциации",
