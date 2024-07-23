@@ -1,6 +1,7 @@
 {
   "categories": {
     "Plugin For Fun": "Команды для развлечения ***__{Disabled}__***",
+    "Plugin For HB": "Команды для поздравления с Днём Рождения <:new_left:998263306391404565><:new_center:998263304394903662><:new_right:998263308295614504>",
     "Plugin Mini-Game Associations": "Команды для мини-игры Associations ***__{Disabled}__***",
     "Plugin Mini-Game Auctions": "Команды для мини-игры Auctions ***__{Disabled}__***",
     "Plugin Mini-Game Hangman": "Команды для мини-игры Hangman",
@@ -88,6 +89,17 @@
     "Utility": {
       "!test_emoji": "Отправить все эмоджи сервера в виде вебхуков",
       "!export_users_data": "Экспорт всех юзеров и UserID в файл"
-    }
+    },
+    "Plugin For HB_": {
+      "!set_birthday": "Установить дату рождения для автоматического поздравления",
+      "!set_birthday_time": "Установить время для автоматического поздравления",
+      "!set_auto_role": "Установка роли для выдачи новым юзерам",
+      "!set_logs_channel": "Установка канала для логов",
+      "!change_logs_channel": "Смена канала для логов",
+      "!remove_logs_channel": "Убрать отправку логов",
+      "!remove_auto_role": "Убрать автороль",
+      "!save_config_lvl": "Сохранить данные уровней в базу данных",
+      "!switch_language": "Сменить язык сервера"
+    },
   }
 }
