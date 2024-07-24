@@ -34,17 +34,17 @@
     "Plugin Level System": {
       "!add_level": "Добавление уровней упомянутому пользователю"
     },
-    "Plugin For HB_": {
+    "Plugin For HB": {
       "!set_birthday_channel": "Установка канала для автоматических поздравлений",
       "!set_birthday_message": "Установка сообщения для автоматических поздравлений",
       "!export_birthdays": "Экспортировать данные об автоматических поздравлений"
     },
-    "System Achievements_": {
+    "System Achievements": {
       "!reset_ach": "Сбросить достижения упомянутому пользователю",
       "!add_achievement": "Добавление собственных достижений",
       "!export_data_ach": "Экспортировать данные о достижениях"
     },
-    "System Custom Themes_": {
+    "System Custom Themes": {
       "!export_theme_data": "Экспортировать данные персонализированных сообщений"
     }
   }
