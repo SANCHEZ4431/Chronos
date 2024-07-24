@@ -93,14 +93,14 @@
       "!vc": "Прямая отправка ссылки на голосовой канал <:new_left:998263306391404565><:new_center:998263304394903662><:new_right:998263308295614504>",
       "!translate": "Перевод текста с одного языка на другой <:new_left:998263306391404565><:new_center:998263304394903662><:new_right:998263308295614504>"
     },
-    "Plugin For HB_": {
+    "Plugin For HB": {
       "!set_birthday": "Установить дату рождения для автоматического поздравления",
       "!set_birthday_time": "Установить время для автоматического поздравления"
     },
-    "System Achievements_": {
+    "System Achievements": {
       "!achievements": "Проверка полученных достижений"
     },
-    "System Custom Themes_": {
+    "System Custom Themes": {
       "!set_theme": "Установить цвет для embed-сообщения",
       "!themes_list": "Список доступных цветовых тем для embed-сообщений"
     }
