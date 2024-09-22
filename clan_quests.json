@@ -15,7 +15,7 @@
             "name": "Активность в голосовом чате",
             "description": "Проведите 10 часов в голосовом чате.",
             "progress": 0,
-            "target": 600,  // В секундах (10 часов)
+            "target": 600,
             "reward": {
                 "experience": 300,
                 "special_role": "Voice Warrior"
