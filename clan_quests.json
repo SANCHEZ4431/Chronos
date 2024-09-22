@@ -1,0 +1,26 @@
+{
+    "quests": {
+        "collect_resources": {
+            "name": "Сбор ресурсов",
+            "description": "Соберите 1000 сообщений в чатах.",
+            "progress": 0,
+            "target": 1000,
+            "reward": {
+                "experience": 500,
+                "items": ["gold", "silver"]
+            },
+            "active": true
+        },
+        "voice_activity": {
+            "name": "Активность в голосовом чате",
+            "description": "Проведите 10 часов в голосовом чате.",
+            "progress": 0,
+            "target": 600,  // В секундах (10 часов)
+            "reward": {
+                "experience": 300,
+                "special_role": "Voice Warrior"
+            },
+            "active": true
+        }
+    }
+}
