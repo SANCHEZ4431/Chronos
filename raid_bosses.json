@@ -1,0 +1,26 @@
+{
+  "Bosses": [
+    {
+      "Boss Name": "Fungus",
+      "Health Points": 10050,
+      "Boss Damage": 100,
+      "Boss Resistance": 100,
+      "Boss Avatar": "",
+      "Rewards": {
+        "Wood": 100
+      },
+      "Boss Time": 120
+    },
+    {
+      "Boss Name": "Sentinel",
+      "Health Points": 10050,
+      "Boss Damage": 100,
+      "Boss Resistance": 100,
+      "Boss Avatar": "",
+      "Rewards": {
+        "Wood": 100
+      },
+      "Boss Time": 120
+    }
+  ]
+}
