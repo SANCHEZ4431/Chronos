@@ -1,0 +1,24 @@
+{
+  "Animals": [
+    {
+      "Animal Name": "Rabbit",
+      "Description": "A quick and nimble rabbit, hard to catch!"
+    },
+    {
+      "Animal Name": "Deer",
+      "Description": "A majestic deer grazing in the wild."
+    },
+    {
+      "Animal Name": "Fox",
+      "Description": "A cunning fox lurking nearby."
+    },
+    {
+      "Animal Name": "Bear",
+      "Description": "A powerful bear looking for food."
+    },
+    {
+      "Animal Name": "Wolf",
+      "Description": "A lone wolf prowling the area."
+    }
+  ]
+}
