@@ -2,7 +2,11 @@
   "Animals": [
     {
       "Animal Name": ":duck:",
-      "Description": "A quick and nimble rabbit, hard to catch!"
+      "Description": "Это просто утка! КРЯ!"
+    },
+    {
+      "Animal Name": ":cat2:",
+      "Description": "Поиграй!"
     }
   ]
 }
