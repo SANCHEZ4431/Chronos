@@ -1,0 +1,5 @@
+{
+  "warning_type": "warning", - Очистить файл = нет предупреждений, warning - желтый значок, critical - красный значок
+  "header_msg": "Testing System Warning Status",
+  "description": "Testing Text"
+}
