@@ -2,9 +2,9 @@
   "version": "1.0",
   "bundles": [
     {
-      "name": "textures.bundle",
-      "url": "https://github.com/youruser/repo/raw/main/textures.bundle",
-      "hash": "d41d8cd98f00b204e9800998ecf8427e"
+      "name": "res.bundle",
+      "url": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/res.bundle",
+      "hash": "9467fcb0344357a5f50b4a660b2a4d3c"
     }
   ]
 }
