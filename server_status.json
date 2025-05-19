@@ -1,5 +1,5 @@
 {
-  "warning_type": "warning",
-  "header_msg": "Server Status",
-  "description": "Preparing the server for the update! Some functions may work with a delay! We apologize!"
+  "warning_type": "critical",
+  "header_msg": "The server has been updated!",
+  "description": "The server has been updated! Old versions of the application will not work! Please update the application or contact support!"
 }
