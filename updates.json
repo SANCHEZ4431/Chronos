@@ -3,12 +3,20 @@
     "version": "0.3",
     "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
   },
-  "bundles": [
-    {
-      "name": "config1",
-      "version": "1.1",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ACT_2_SPRITE_DOJO"
-    }
-  ]
+  "bundles": {
+    "0.1": [
+      {
+        "name": "config",
+        "version": "1.0",
+        "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ACT_2_SPRITE_DOJO"
+      }
+    ],
+    "0.3": [
+      {
+        "name": "config",
+        "version": "1.1",
+        "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ACT_2_SPRITE_DOJO"
+      }
+    ]
+  }
 }
-
