@@ -1,27 +1,37 @@
 {
-  "apk": {
-    "version": "0.3",
-    "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
-  },
-  "bundles": [
+  "versions": [
     {
-      "name": "config",
-      "version": "1.1",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
+      "version": "0.3",
+      "apk": {
+        "version": "0.3",
+        "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
+      },
+      "bundles": [
+        {
+          "name": "config",
+          "version": "1.1",
+          "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
+        }
+      ]
     },
     {
-      "name": "config",
-      "version": "1.2",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
-    },
-    {
-      "name": "config",
-      "version": "1.3",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
+      "version": "0.4",
+      "apk": {
+        "version": "0.4",
+        "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
+      },
+      "bundles": [
+        {
+          "name": "config",
+          "version": "1.2",
+          "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
+        },
+        {
+          "name": "config",
+          "version": "1.3",
+          "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
+        }
+      ]
     }
-  ],
-  "apk": {
-    "version": "0.4",
-    "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
-  }
+  ]
 }
