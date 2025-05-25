@@ -3,7 +3,6 @@
     {
       "version": "0.3",
       "apk": {
-        "version": "0.3",
         "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
       },
       "bundles": [
@@ -17,7 +16,6 @@
     {
       "version": "0.4",
       "apk": {
-        "version": "0.4",
         "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk"
       },
       "bundles": [
