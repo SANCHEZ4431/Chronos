@@ -8,6 +8,11 @@
       "name": "config",
       "version": "1.1",
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ACT_2_SPRITE_DOJO"
+    },
+    {
+      "name": "config",
+      "version": "1.2",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
     }
   ]
 }
