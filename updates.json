@@ -13,6 +13,11 @@
       "name": "config",
       "version": "1.2",
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
+    },
+    {
+      "name": "config",
+      "version": "1.3",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle"
     }
   ]
 }
