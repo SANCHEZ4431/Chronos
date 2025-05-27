@@ -9,7 +9,7 @@
       "name": "config",
       "version": "0.3",
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle",
-      "required": true
+      "required": false
     }
   ]
 }
