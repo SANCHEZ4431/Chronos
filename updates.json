@@ -1,21 +1,15 @@
 {
   "apk": {
-    "version": "0.2",
+    "version": "0.3",
     "url": "https://github.com/Chronos159/ASG/releases/download/Testing/ASG.apk",
     "required": false
   },
   "bundles": [
     {
       "name": "config",
-      "version": "1.0",
-      "url": "https://yourserver.com/bundles/config.bundle",
-      "required": false
-    },
-    {
-      "name": "icon_set",
-      "version": "1.2",
-      "url": "https://yourserver.com/bundles/icon_set.bundle",
-      "required": false
+      "version": "0.3",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle",
+      "required": true
     }
   ]
 }
