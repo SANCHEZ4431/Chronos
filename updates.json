@@ -12,6 +12,14 @@
       "hash": "4d470a31ffee1d5deb9c3f1eeddccb4e30c8a6dbb892618aa945a55bc6bc006d",
       "size": "1467kb",
       "required": true
+    },
+    {
+      "name": "config",
+      "version": "0.4",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle",
+      "hash": "4d470a31ffee1d5deb9c3f1eeddccb4e30c8a6dbb892618aa945a55bc6bc006d",
+      "size": "1467kb",
+      "required": true
     }
   ]
 }
