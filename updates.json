@@ -18,15 +18,15 @@
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle",
       "hash": "4d470a31ffee1d5deb9c3f1eeddccb4e30c8a6dbb892618aa945a55bc6bc006d",
       "size": "1467kb",
-      "required": true
+      "required": false
     },
     {
       "name": "config",
       "version": "0.4",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config.bundle",
-      "hash": "4d470a31ffee1d5deb9c3f1eeddccb4e30c8a6dbb892618aa945a55bc6bc006d",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_0_4.bundle",
+      "hash": "79ca17a6452939ada593f3344867fb1849c091db69ac4b062dc922b893a02338",
       "size": "1467kb",
-      "required": false
+      "required": true
     }
   ]
 }
