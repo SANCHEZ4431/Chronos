@@ -14,10 +14,10 @@
   "bundles": [
     {
       "name": "config",
-      "version": "0.4",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_0_3.bundle",
-      "hash": "4d470a31ffee1d5deb9c3f1eeddccb4e30c8a6dbb892618aa945a55bc6bc006d",
-      "size": "1467kb",
+      "version": "0.1",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_0_1.bundle",
+      "hash": "739bf87b75b85ca0450de6d3db93dcbec6dd96de4c55e7e741e236446446998b",
+      "size": "1625kb",
       "required": true
     }
   ]
