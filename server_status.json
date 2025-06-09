@@ -1,5 +1,5 @@
 {
   "warning_type": "critical",
-  "header_msg": "The server has been updated!",
-  "description": "The server has been updated! Old versions of the application will not work! Please update the application or contact support!"
+  "header_msg": "Bugs/Errors/Problem connecting to server",
+  "description": "The server responds with a delay of 1 minute, so you may see an error about not being connected to the server! If the error appears, just click the Login button again"
 }
