@@ -7,7 +7,7 @@
     },
     {
       "version": "0.4",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/AssetViewer04.apk",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/AssetViewerv04.apk",
       "required": true
     }
   ],
@@ -17,6 +17,14 @@
       "version": "0.1",
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_0_1.bundle",
       "hash": "739bf87b75b85ca0450de6d3db93dcbec6dd96de4c55e7e741e236446446998b",
+      "size": "1625kb",
+      "required": false
+    },
+    {
+      "name": "config",
+      "version": "0.2",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_0_2.bundle",
+      "hash": "3e6b5f192471a43bcdf647d1a7da999596648801356311a263e3b38df7f70fa4",
       "size": "1625kb",
       "required": true
     }
