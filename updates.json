@@ -3,7 +3,7 @@
     {
       "version": "0.5.1",
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/AssetViewerv04.apk",
-      "required": false
+      "required": true
     }
   ],
   "bundles": [
