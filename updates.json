@@ -8,7 +8,7 @@
   ],
   "bundles": [
     {
-      "name": "config",
+      "name": "config_v_0_1",
       "version": "0.1",
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_0_1.bundle",
       "hash": "739bf87b75b85ca0450de6d3db93dcbec6dd96de4c55e7e741e236446446998b",
