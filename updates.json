@@ -14,6 +14,14 @@
       "hash": "3e6b5f192471a43bcdf647d1a7da999596648801356311a263e3b38df7f70fa4",
       "size": "1625kb",
       "required": true
+    },
+    {
+      "name": "ui",
+      "version": "0.2",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ui.bundle",
+      "hash": "b447bd0f766ab3247e942e523ec7a93bc4742438e92244fb13f449b275cd2480",
+      "size": "1625kb",
+      "required": true
     }
   ]
 }
