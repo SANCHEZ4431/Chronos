@@ -21,7 +21,7 @@
       "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ui.bundle",
       "hash": "b447bd0f766ab3247e942e523ec7a93bc4742438e92244fb13f449b275cd2480",
       "size": "1625kb",
-      "required": false
+      "required": true
     }
   ]
 }
