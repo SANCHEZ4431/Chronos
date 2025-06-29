@@ -1,8 +1,8 @@
 {
   "apk": [
     {
-      "version": "0.5.1",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/AssetViewer_v0_5_2.apk",
+      "version": "0.5.2",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/AssetBundle_v_0_5_2.apk",
       "required": true
     }
   ],
@@ -16,10 +16,26 @@
       "required": true
     },
     {
-      "name": "ui",
+      "name": "localization",
       "version": "0.2",
-      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ui.bundle",
-      "hash": "b447bd0f766ab3247e942e523ec7a93bc4742438e92244fb13f449b275cd2480",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/localization.bundle",
+      "hash": "a03c5234cd02042f3d106316dca95625cac62d12955662063424f2f50965fe97",
+      "size": "1625kb",
+      "required": true
+    },
+    {
+      "name": "config_updates",
+      "version": "0.2",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_updates.bundle",
+      "hash": "945c72cc692f46f077a8fb083331eb2ef91988fee8cb1675f4ede97695522ade",
+      "size": "1625kb",
+      "required": true
+    },
+    {
+      "name": "config_btns",
+      "version": "0.2",
+      "url": "https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_btns.bundle",
+      "hash": "6a23feaa7452bfa180f823b245a080636454b00f82623ed0c9b4afb032a1c855",
       "size": "1625kb",
       "required": true
     }
