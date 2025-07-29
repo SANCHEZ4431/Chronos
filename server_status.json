@@ -1,5 +1,5 @@
 {
   "warning_type": "critical",
-  "header_msg": "Bugs/Errors/Problem connecting to server",
-  "description": "The server responds with a delay of 1 minute, so you may see an error about not being connected to the server! If the error appears, just click the Login button again"
+  "header_msg": "Server/program support is discontinued!",
+  "description": "We are very sorry to announce this. Soon the server support will be discontinued, due to this you will no longer be able to use the program, as well as receive updates! We are closing the project, details in the telegram group(Contact Us button)!"
 }
