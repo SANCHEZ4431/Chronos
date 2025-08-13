@@ -30,5 +30,9 @@
     {
         "question": "What is the alternate name of the resurrection set?",
         "answer": ["revive", "revival", "Revival", "Revive"]
+    },
+    {
+        "question": "Find the answer to this question: \nV2hhdCBlbmNoYW50bWVudCBhbGxvd3MgeW91IHRvIGNvcHkgeW91ciBvcHBvbmVudCdzIG1hZ2ljPw==",
+        "answer": ["plot twist"]
     }
 ]
