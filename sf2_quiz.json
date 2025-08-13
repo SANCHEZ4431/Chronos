@@ -34,5 +34,29 @@
     {
         "question": "Find the answer to this question: \nV2hhdCBlbmNoYW50bWVudCBhbGxvd3MgeW91IHRvIGNvcHkgeW91ciBvcHBvbmVudCdzIG1hZ2ljPw==",
         "answer": ["plot twist"]
+    },
+    {
+        "question": "V2hhdCBpcyB0aGUgbmFtZSBvZiBTaGFkb3cncyBhc3Npc3RhbnQgaW4gQWN0IDc/",
+        "answer": ["Kali"]
+    },
+    {
+        "question": "V2hhdCBpcyB0aGUgbW9zdCB1c2VkIG1lZGl1bSBlbmNoYW50bWVudCBvbiBhIHByaXZhdGUgc2VydmVyPw==",
+        "answer": ["frenzy"]
+    },
+    {
+        "question": "V2hhdCB3ZWFwb24gZG9lcyBUcmlja3N0ZXIgZ2l2ZSB0byBTaGFkb3c/",
+        "answer": ["nunchacku"]
+    },
+    {
+        "question": "nHwo ynma cesodsn sdoa a dria bttale lsat?",
+        "answer": ["45"]
+    },
+    {
+        "question": "woH nmay rceemnaceis catatk eth Shdaow ni Act 5?",
+        "answer": ["5"]
+    },
+    {
+        "question": "What year was SF2 released?",
+        "answer": ["2013"]
     }
 ]
