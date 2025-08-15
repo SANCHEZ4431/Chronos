@@ -54,5 +54,29 @@
     {
         "question": "What year was SF2 released?",
         "answer": ["2013"]
+    },
+    {
+        "question": "Which weapon does Shin use?",
+        "answer": ["Kunai"]
+    },
+    {
+        "question": " Which weapon does Karcer use?",
+        "answer": ["Hunger Sickles"]
+    },
+    {
+        "question": "Which weapon has super slash with more than 5 hits?",
+        "answer": ["Sabers"]
+    },
+    {
+        "question": "Which weapon does The Hawk use?",
+        "answer": ["Naginata"]
+    },
+    {
+        "question": " How Titan calls May after she has been kidnapped?",
+        "answer": ["Justice"]
+    },
+    {
+        "question": "Who seeks help from Sensei during Old Wounds?",
+        "answer": ["Prince"]
     }
 ]
