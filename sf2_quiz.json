@@ -21,34 +21,34 @@
     },
     {
         "question": "What is the Weapon used by Architect?",
-        "answer": ["Two Handed Hammer", "two handed hammer"]
+        "answer": ["Two Handed Hammer", "two handed hammer", "Don't cross the directior"]
     },
     {
         "question": "What is the alternate name of the resurrection set?",
         "answer": ["revive", "revival", "Revival", "Revive"]
     },
     {
-        "question": "Find the answer to this question: \nV2hhdCBlbmNoYW50bWVudCBhbGxvd3MgeW91IHRvIGNvcHkgeW91ciBvcHBvbmVudCdzIG1hZ2ljPw==",
+        "question": "What enchantment allows you to copy your opponent's magic?",
         "answer": ["plot twist"]
     },
     {
-        "question": "V2hhdCBpcyB0aGUgbmFtZSBvZiBTaGFkb3cncyBhc3Npc3RhbnQgaW4gQWN0IDc/",
+        "question": "What is the name of Shadow's assistant in Act 7?",
         "answer": ["Kali"]
     },
     {
-        "question": "V2hhdCBpcyB0aGUgbW9zdCB1c2VkIG1lZGl1bSBlbmNoYW50bWVudCBvbiBhIHByaXZhdGUgc2VydmVyPw==",
+        "question": "What is the most used medium enchantment on a private server?",
         "answer": ["frenzy"]
     },
     {
-        "question": "V2hhdCB3ZWFwb24gZG9lcyBUcmlja3N0ZXIgZ2l2ZSB0byBTaGFkb3c/",
+        "question": "What weapon does Trickster give to Shadow?",
         "answer": ["nunchacku"]
     },
     {
-        "question": "nHwo ynma cesodsn sdoa a dria bttale lsat?",
+        "question": "How many seconds does a raid battle last?",
         "answer": ["45"]
     },
     {
-        "question": "woH nmay rceemnaceis catatk eth Shdaow ni Act 6?",
+        "question": "How many mercenaries attack the Shadow in Act 6?",
         "answer": ["5"]
     },
     {
@@ -65,7 +65,7 @@
     },
     {
         "question": "Which weapon has super slash with more than 5 hits?",
-        "answer": ["Sabers"]
+        "answer": ["Sabers", "Krises", "Mowers", "Hack knives"]
     },
     {
         "question": "Which weapon does The Hawk use?",
@@ -78,5 +78,9 @@
     {
         "question": "Who seeks help from Sensei during Old Wounds?",
         "answer": ["Prince"]
+    },
+    {
+        "question": "Which weapon covers most area of screen during attack?",
+        "answer": ["Mowers"]
     }
 ]
