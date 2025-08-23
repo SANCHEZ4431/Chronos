@@ -82,5 +82,30 @@
     {
         "question": "Which weapon covers most area of screen during attack?",
         "answer": ["Mowers"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/adanti.png",
+        "answer": ["Adanti"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/elemetalist.png",
+        "answer": ["elementalist"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/hawk.png",
+        "answer": ["hawk"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/outcast.jpg",
+        "answer": ["outcast"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/sea_sorceress.png",
+        "answer": ["Sea Sorceress"]
     }
 ]
