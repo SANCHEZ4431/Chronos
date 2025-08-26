@@ -107,5 +107,181 @@
         "question": "Who is this character?",
         "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/sea_sorceress.png",
         "answer": ["Sea Sorceress", "Wasp"]
-    }
+    },
+    {
+        "question": "Who have the same ability of volcano?",
+        "answer": ["widow"]
+    },
+    {
+        "question": "Who is the first opponent of the shadow?",
+        "answer": ["punching bag", "kenji"]
+    },
+    {
+        "question": "What is the weapon of sensei?",
+        "answer": ["katana"]
+    },
+    {
+        "question": "What is the name of the portal which is the opening to Titan's place?",
+        "answer": ["shadow gate", "gates of shadow", "gates of shadows"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.arkhos_raid.png",
+        "answer": ["arkhos"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.fatum_raid.png",
+        "answer": ["fatum"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.fungus_raid.png",
+        "answer": ["fungus"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.gatekeeper_raid.png",
+        "answer": ["gatekeeper"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.hoaxen_raid.png",
+        "answer": ["hoaxen"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.hunger_raid.png",
+        "answer": ["karcer", "hunger"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.megalith_raid.png",
+        "answer": ["megalith"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.tenebris_raid.png",
+        "answer": ["tenebris"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.vortex_raid.png",
+        "answer": ["vortex"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.vulcan_raid.png",
+        "answer": ["vulcan"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_base.war_raid.png",
+        "answer": ["drakaina"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.architect_raid.png",
+        "answer": ["architect"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.architect_summer_raid.png",
+        "answer": ["architect"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.bison_raid.png",
+        "answer": ["adanti"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.candy_raid.png",
+        "answer": ["candy"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.dandy_raid.png",
+        "answer": ["dandy"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.ermine_raid.png",
+        "answer": ["ermine"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.freeze_jr_ny23_raid.png",
+        "answer": ["freeze junior", "freeze jr"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.freeze_jr_raid.png",
+        "answer": ["freeze junior", "freeze jr"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.freeze_raid.png",
+        "answer": ["freeze"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.morgana_ghost.png",
+        "answer": ["banshee"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.morgana_old.png",
+        "answer": ["countess"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.morgana_young.png",
+        "answer": ["morgana"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.puppeter_raid.png",
+        "answer": ["puppeter"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.rakshasa.png",
+        "answer": ["rakshasa"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.ravana_raid.png",
+        "answer": ["ravana"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.shuan_gou.png",
+        "answer": ["son of heaven"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.shurale_raid.png",
+        "answer": ["shurale"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.wind_wolf_raid.png",
+        "answer": ["wind wolf"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.wind_wolf_raid_new.png",
+        "answer": ["wind wolf"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.whisper_raid.png",
+        "answer": ["whisper"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.son_of_the_sun_raid.png",
+        "answer": ["son of sun", "son of the sun"]
+    },
 ]
