@@ -118,7 +118,7 @@
     },
     {
         "question": "What is the weapon of sensei?",
-        "answer": ["katana"]
+        "answer": ["ninja sword"]
     },
     {
         "question": "What is the name of the portal which is the opening to Titan's place?",
@@ -267,7 +267,7 @@
     {
         "question": "Who is this character?",
         "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.wind_wolf_raid.png",
-        "answer": ["wind wolf"]
+        "answer": ["wolf wind"]
     },
     {
         "question": "Who is this character?",
