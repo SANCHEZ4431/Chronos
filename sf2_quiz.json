@@ -202,7 +202,7 @@
     {
         "question": "Who is this character?",
         "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.dandy_raid.png",
-        "answer": ["dandy"]
+        "answer": ["dandy", "faradeya"]
     },
     {
         "question": "Who is this character?",
@@ -267,7 +267,7 @@
     {
         "question": "Who is this character?",
         "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.wind_wolf_raid.png",
-        "answer": ["wolf wind"]
+        "answer": ["wind wolf"]
     },
     {
         "question": "Who is this character?",
