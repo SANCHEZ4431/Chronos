@@ -15,7 +15,8 @@
       },
       "pet": "dragonling"
     },
-    "sent_at": "2025-10-10T12:00:00Z"
+    "sent_at": "2025-10-10T12:00:00Z",
+    "expired": "2025-10-01T00:00:00Z"
   },
   {
     "to_id": 5059523895,
@@ -29,5 +30,21 @@
       }
     },
     "sent_at": "2025-10-09T12:00:00Z"
-  }
+  },
+  {
+    "to_id": 5059523895,
+    "subject": "Testing message!",
+    "body": "Поздравляем! Забери свои ресурсы.",
+    "attachments": {
+      "coins": 500,
+      "essence": 10,
+      "resources": {
+        "gold": 200,
+        "magic_crystals": 50
+      },
+      "pet": "dragonling"
+    },
+    "sent_at": "2025-10-10T12:00:00Z",
+    "expired": "2025-10-11T00:00:00Z"
+  },
 ]
