@@ -46,5 +46,38 @@
     },
     "sent_at": "2025-10-10T12:00:00Z",
     "expired": "2025-10-11T00:00:00Z"
+  },
+  {
+    "to_id": 5059523895,
+    "subject": "Testing header!",
+    "body": "Testing message!.",
+    "attachments": {
+      "coins": 1,
+      "essence": 1,
+      "resources": {
+        "gold": 1,
+        "magic_crystals": 1,
+        "wood": 1,
+        "stone": 1,
+        "iron": 1,
+        "food": 1, 
+        "ores": 1,
+        "fabric": 1,
+        "rare_artifacts": 1
+      },
+      "pet": {
+        "dragonling",
+        "shadow_wolf",
+        "spirit_fox",
+        "stone_golem",
+        "griffin",
+        "celestial_cat",
+        "abyssal_serpent",
+        "thunder_raven",
+        "crystal_turtle"
+      }
+    },
+    "sent_at": "2025-10-10T18:00:00Z",
+    "expired": "2025-10-11T00:00:00Z"
   }
 ]
