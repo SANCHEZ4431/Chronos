@@ -65,7 +65,7 @@
         "fabric": 1,
         "rare_artifacts": 1
       },
-      "pet": {
+      "pet": [
         "dragonling",
         "shadow_wolf",
         "spirit_fox",
@@ -75,7 +75,7 @@
         "abyssal_serpent",
         "thunder_raven",
         "crystal_turtle"
-      }
+      ]
     },
     "sent_at": "2025-10-10T18:00:00Z",
     "expired": "2025-10-11T00:00:00Z"
