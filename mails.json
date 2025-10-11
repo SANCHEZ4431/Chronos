@@ -99,11 +99,12 @@
     "to_id": "all_users",
     "from_name": "🐉 Dragon Guard",
     "subject": "First launch of the mail system!",
-    "body": "Greetings! This is a system message! \n\nThis is the first launch of the mail system. As the user list grows daily, the mail system will help you stay informed about new bot features! \nThis email contains a reward: 25 Essence and 500 Coins! \nThis message does not expire!",
+    "body": "Greetings! This is a system message! \n\nThis is the first launch of the mail system. As the user list grows daily, the mail system will help you stay informed about new bot features! \nThis email contains a reward: 25 Essence and 500 Coins!",
     "attachments": {
       "coins": 500,
       "essence": 25
     },
-    "sent_at": "2025-10-11T10:00:00Z"
+    "sent_at": "2025-10-11T10:00:00Z",
+    "expired": "2025-10-21T00:00:00Z"
   }
 ]
