@@ -102,7 +102,7 @@
     "body": "Greetings! This is a system message! \n\nThis is the first launch of the mail system. As the user list grows daily, the mail system will help you stay informed about new bot features! \nThis email contains a reward: 25 Essence and 500 Coins! \nThis message does not expire!",
     "attachments": {
       "coins": 500,
-      "essence": 25,
+      "essence": 25
     },
     "sent_at": "2025-10-11T12:00:00Z"
   }
