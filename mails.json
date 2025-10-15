@@ -1,132 +1,132 @@
 [
-  {
-    "to_id": 5059523895,
-    "subject": "🎁 Подарок за ивент",
-    "body": "Поздравляем! Забери свои ресурсы.",
-    "attachments": {
-      "coins": 500,
-      "essence": 10,
-      "resources": {
-        "gold": 200,
-        "magic_crystals": 50
-      },
-      "vip": {
-        "days": 7
-      },
-      "pet": "dragonling"
+    {
+        "to_id": 5059523895,
+        "subject": "🎁 Подарок за ивент",
+        "body": "Поздравляем! Забери свои ресурсы.",
+        "attachments": {
+            "coins": 500,
+            "essence": 10,
+            "resources": {
+                "gold": 200,
+                "magic_crystals": 50
+            },
+            "vip": {
+                "days": 7
+            },
+            "pet": "dragonling"
+        },
+        "sent_at": "2025-10-10T12:00:00Z",
+        "expired": "2025-10-01T00:00:00Z"
     },
-    "sent_at": "2025-10-10T12:00:00Z",
-    "expired": "2025-10-01T00:00:00Z"
-  },
-  {
-    "to_id": 5059523895,
-    "subject": "🎉 Еженедельная награда",
-    "body": "Спасибо, что играешь! Забери бонус!",
-    "attachments": {
-      "coins": 300,
-      "resources": {
-        "wood": 100,
-        "stone": 50
-      }
+    {
+        "to_id": 5059523895,
+        "subject": "🎉 Еженедельная награда",
+        "body": "Спасибо, что играешь! Забери бонус!",
+        "attachments": {
+            "coins": 300,
+            "resources": {
+                "wood": 100,
+                "stone": 50
+            }
+        },
+        "sent_at": "2025-10-09T12:00:00Z"
     },
-    "sent_at": "2025-10-09T12:00:00Z"
-  },
-  {
-    "to_id": 5059523895,
-    "subject": "Testing message!",
-    "body": "Поздравляем! Забери свои ресурсы.",
-    "attachments": {
-      "coins": 500,
-      "essence": 10,
-      "resources": {
-        "gold": 200,
-        "magic_crystals": 50
-      },
-      "pet": "dragonling"
+    {
+        "to_id": 5059523895,
+        "subject": "Testing message!",
+        "body": "Поздравляем! Забери свои ресурсы.",
+        "attachments": {
+            "coins": 500,
+            "essence": 10,
+            "resources": {
+                "gold": 200,
+                "magic_crystals": 50
+            },
+            "pet": "dragonling"
+        },
+        "sent_at": "2025-10-10T12:00:00Z",
+        "expired": "2025-10-11T00:00:00Z"
     },
-    "sent_at": "2025-10-10T12:00:00Z",
-    "expired": "2025-10-11T00:00:00Z"
-  },
-  {
-    "to_id": 5059523895,
-    "subject": "Testing header!",
-    "body": "Testing message!.",
-    "attachments": {
-      "coins": 1,
-      "essence": 1,
-      "resources": {
-        "gold": 1,
-        "magic_crystals": 1,
-        "wood": 1,
-        "stone": 1,
-        "iron": 1,
-        "food": 1, 
-        "ores": 1,
-        "fabric": 1,
-        "rare_artifacts": 1
-      },
-      "pet": [
-        "dragonling",
-        "shadow_wolf",
-        "spirit_fox",
-        "stone_golem",
-        "griffin",
-        "celestial_cat",
-        "abyssal_serpent",
-        "thunder_raven",
-        "crystal_turtle"
-      ]
+    {
+        "to_id": 5059523895,
+        "subject": "Testing header!",
+        "body": "Testing message!.",
+        "attachments": {
+            "coins": 1,
+            "essence": 1,
+            "resources": {
+                "gold": 1,
+                "magic_crystals": 1,
+                "wood": 1,
+                "stone": 1,
+                "iron": 1,
+                "food": 1,
+                "ores": 1,
+                "fabric": 1,
+                "rare_artifacts": 1
+            },
+            "pet": [
+                "dragonling",
+                "shadow_wolf",
+                "spirit_fox",
+                "stone_golem",
+                "griffin",
+                "celestial_cat",
+                "abyssal_serpent",
+                "thunder_raven",
+                "crystal_turtle"
+            ]
+        },
+        "sent_at": "2025-10-10T18:00:00Z",
+        "expired": "2025-10-11T00:00:00Z"
     },
-    "sent_at": "2025-10-10T18:00:00Z",
-    "expired": "2025-10-11T00:00:00Z"
-  },
-  {
-    "to_id": 5059523895,
-    "subject": "Hello @Lilyyycat",
-    "body": "A message that contains nothing interesting!",
-    "sent_at": "2025-10-10T18:00:00Z",
-    "expired": "2025-10-11T00:00:00Z"
-  },
-  {
-    "to_id": 5059523895,
-    "subject": "Hello!",
-    "from_name": "🐉 Dragon Guard",
-    "body": "A message that contains nothing interesting!",
-    "sent_at": "2025-10-11T10:00:00Z",
-    "expired": "2025-10-13T00:00:00Z"
-  },
-  {
-    "to_id": "all_users",
-    "from_name": "🐉 Dragon Guard",
-    "subject": "First launch of the mail system!",
-    "body": "Greetings! This is a system message! \n\nThis is the first launch of the mail system. As the user list grows daily, the mail system will help you stay informed about new bot features! \nThis email contains a reward: 25 Essence and 500 Coins!",
-    "attachments": {
-      "coins": 500,
-      "essence": 25
+    {
+        "to_id": 5059523895,
+        "subject": "Hello @Lilyyycat",
+        "body": "A message that contains nothing interesting!",
+        "sent_at": "2025-10-10T18:00:00Z",
+        "expired": "2025-10-11T00:00:00Z"
     },
-    "sent_at": "2025-10-11T10:00:00Z",
-    "expired": "2025-10-21T00:00:00Z"
-  },
-  {
-    "to_id": "all_users",
-    "from_name": "🐉 Dragon Guard",
-    "subject": "System update!",
-    "body": "/level command update - added a line about available new emails\n/ref command added - invite new users using your referral link",
-    "attachments": {
-      "coins": 500,
-      "resources": {
-        "gold": 100,
-        "magic_crystals": 100,
-        "wood": 100,
-        "stone": 100,
-        "iron": 100,
-        "food": 100, 
-        "ores": 100,
-        "fabric": 100,
-        "rare_artifacts": 100
-      }
-      },
-    "sent_at": "2025-10-15T18:10:00Z",
-    "expired": "2025-10-31T00:00:00Z"
-  }
+    {
+        "to_id": 5059523895,
+        "subject": "Hello!",
+        "from_name": "🐉 Dragon Guard",
+        "body": "A message that contains nothing interesting!",
+        "sent_at": "2025-10-11T10:00:00Z",
+        "expired": "2025-10-13T00:00:00Z"
+    },
+    {
+        "to_id": "all_users",
+        "from_name": "🐉 Dragon Guard",
+        "subject": "First launch of the mail system!",
+        "body": "Greetings! This is a system message! \n\nThis is the first launch of the mail system. As the user list grows daily, the mail system will help you stay informed about new bot features! \nThis email contains a reward: 25 Essence and 500 Coins!",
+        "attachments": {
+            "coins": 500,
+            "essence": 25
+        },
+        "sent_at": "2025-10-11T10:00:00Z",
+        "expired": "2025-10-21T00:00:00Z"
+    },
+    {
+        "to_id": "all_users",
+        "from_name": "🐉 Dragon Guard",
+        "subject": "System update!",
+        "body": "/level command update - added a line about available new emails\n/ref command added - invite new users using your referral link",
+        "attachments": {
+            "coins": 500,
+            "resources": {
+                "gold": 100,
+                "magic_crystals": 100,
+                "wood": 100,
+                "stone": 100,
+                "iron": 100,
+                "food": 100,
+                "ores": 100,
+                "fabric": 100,
+                "rare_artifacts": 100
+            }
+        },
+        "sent_at": "2025-10-15T18:10:00Z",
+        "expired": "2025-10-31T00:00:00Z"
+    }
 ]
