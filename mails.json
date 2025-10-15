@@ -106,5 +106,27 @@
     },
     "sent_at": "2025-10-11T10:00:00Z",
     "expired": "2025-10-21T00:00:00Z"
+  },
+  {
+    "to_id": "all_users",
+    "from_name": "🐉 Dragon Guard",
+    "subject": "System update!",
+    "body": "/level command update - added a line about available new emails\n/ref command added - invite new users using your referral link",
+    "attachments": {
+      "coins": 500,
+      "resources": {
+        "gold": 100,
+        "magic_crystals": 100,
+        "wood": 100,
+        "stone": 100,
+        "iron": 100,
+        "food": 100, 
+        "ores": 100,
+        "fabric": 100,
+        "rare_artifacts": 100
+      },
+    },
+    "sent_at": "2025-10-15T18:10:00Z",
+    "expired": "2025-10-31T00:00:00Z"
   }
 ]
