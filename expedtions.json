@@ -1,0 +1,290 @@
+{
+    "summoner_battle": {
+        "name": "Summoner Battle",
+        "duration": 60,
+        "description": "A great battle in a clearing, where summoners fight for victory and the honor of their clan.",
+        "expedition_desc": "The expedition is over! Your summoners have triumphed in an epic battle, proving their valor and strength. May this triumph be the beginning of a new era for your clan!"
+    },
+    "dragon_hunt": {
+        "name": "Dragon Hunt",
+        "duration": 45,
+        "description": "Go to dangerous lands to catch a mighty dragon.",
+        "expedition_desc": "Expedition complete! You have defeated a mighty dragon and captured its mighty forces. May this victory bring your clan unprecedented power and glory!"
+    },
+    "ancient_ruins": {
+        "name": "Ancient Ruins",
+        "duration": 50,
+        "description": "Explore forgotten ruins to uncover the secrets of ancient civilizations.",
+        "expedition_desc": "Expedition complete! Ancient secrets have been revealed, and forgotten knowledge has brought new opportunities to your clan. The secrets of the past will now become your powerful weapons!"
+    },
+    "mage_academy": {
+        "name": "Mage Academy",
+        "duration": 30,
+        "description": "Visit the Magic Academy to learn and obtain powerful artifacts.",
+        "expedition_desc": "Expedition complete! Your mages have acquired new knowledge and powerful artifacts. Their magical abilities are now inaccessible to the enemy!"
+    },
+    "shadow_infiltration": {
+        "name": "Shadow Infiltration",
+        "duration": 55,
+        "description": "Infiltrate enemy territory to gather information and weaken the enemy.",
+        "expedition_desc": "Expedition complete! Your agents have successfully infiltrated the enemy ranks, obtaining valuable information and weakening their positions. Now your clan is ready for the next step in the war!"
+    },
+    "artifact_recovery": {
+        "name": "Artifact Recovery",
+        "duration": 60,
+        "description": "Recover lost artifacts that hold great power and ancient knowledge.",
+        "expedition_desc": "Expedition complete! The artifacts have been returned to your clan, and their power is once again in your hands. These ancient relics will now protect and strengthen your might!"
+    },
+    "summoner_training": {
+        "name": "Summoner Training",
+        "duration": 40,
+        "description": "Improve the skills of your summoners and prepare them for future battles.",
+        "expedition_desc": "Expedition complete! Your summoners have become significantly stronger and are ready for any challenge. Prepare for new challenges with renewed powers!"
+    },
+    "epic_quest": {
+        "name": "Epic Quest",
+        "duration": 70,
+        "description": "An adventure full of dangers and great achievements that will test the strength and courage of the clan.",
+        "expedition_desc": "Expedition completed! Your clan has successfully passed through all the dangers and trials, earning its place in legends. Prepare for new exploits and triumphs!"
+    },
+    "rune_hunt": {
+        "name": "Rune Hunt",
+        "duration": 35,
+        "description": "Search for rare runes that will give additional strength and magic to your clan.",
+        "expedition_desc": "Expedition completed! Rare runes have been found and now strengthen your clan. These powerful artifacts will give your clan new magical abilities and strengthen its position!"
+    },
+    "siege_assault": {
+        "name": "Fortress Siege",
+        "duration": 45,
+        "description": "Lay siege on an enemy fortress to expand your influence.",
+        "expedition_desc": "Expedition complete! The siege was successful, and the enemy fortress fell before your might. Your conquests are now expanding, and the clan's influence is growing stronger!"
+    },
+    "ancient_sanctuary": {
+        "name": "Ancient Sanctuary",
+        "duration": 50,
+        "description": "Explore sacred sites to obtain unique blessings and resources.",
+        "expedition_desc": "Expedition complete! The ancient sanctuary has revealed its secrets, and your clan has received unique blessings and resources. May this strengthen your abilities and protect you from any threats!"
+    },
+    "elemental_study": {
+        "name": "Elemental Study",
+        "duration": 65,
+        "description": "Study the powers of the elements to strengthen your magical and combat abilities.",
+        "expedition_desc": "Expedition complete! The powers of the elements have become part of your clan, granting new magical and combat abilities. Use this power wisely to achieve greatness!"
+    },
+    "sorcerer_expedition": {
+        "name": "Sorcerer's Expedition",
+        "duration": 30,
+        "description": "Sorcerers set out for mysterious lands to search for magical knowledge and artifacts.",
+        "expedition_desc": "The expedition is complete! The sorcerers have returned with new knowledge and powerful artifacts. Let their magic become a reliable weapon for your clan!"
+    },
+    "dark_ritual": {
+        "name": "Dark Ritual",
+        "duration": 50,
+        "description": "Perform a ritual that can change the course of the war and strengthen your forces.",
+        "expedition_desc": "The expedition is complete! The dark ritual is complete, and its magical power has strengthened your clan. May this dark power help you to achieve victory in the battles to come!"
+    },
+    "guardian_mission": {
+        "name": "Guardian Mission",
+        "duration": 40,
+        "description": "Protect key points from enemy attacks and threats.",
+        "expedition_desc": "Expedition complete! Your guardians have shown courage and fortitude, successfully defending key points. Your clan can now focus on conquests without fear for their safety!"
+    },
+    "lost_city": {
+        "name": "Lost City",
+        "duration": 60,
+        "description": "Explore the lost city to find treasures and ancient secrets.",
+        "expedition_desc": "Expedition complete! The lost city has been found, and its treasures have revealed their secrets. Your clan now possesses great wealth and ancient knowledge that will strengthen its power!"
+    },
+    "beast_taming": {
+        "name": "Beast Taming",
+        "duration": 55,
+        "description": "Tame wild beasts to use in future battles.",
+        "expedition_desc": "Expedition complete! Wild beasts are now under your control, ready to serve your clan in future battles. Their strength and loyalty will be your undeniable advantage!"
+    },
+    "cursed_vault": {
+        "name": "Cursed Vault",
+        "duration": 70,
+        "description": "Solve the mysteries of the cursed vault and obtain powerful artifacts.",
+        "expedition_desc": "Expedition complete! The mysteries of the cursed vault have been solved, and its powerful artifacts now belong to your clan. Let this power strengthen your position and help you in future battles!"
+    },
+    "frozen_tundra": {
+        "name": "Frozen Tundra",
+        "duration": 60,
+        "description": "Conquer the frozen wastes to obtain rare resources.",
+        "expedition_desc": "Expedition complete! The tundra has been conquered, and the rare resources now belong to your clan. May these riches strengthen your army."
+    },
+    "demon_horde": {
+        "name": "Demon Horde",
+        "duration": 45,
+        "description": "Repel the attack of the demonic horde to protect the clan's lands.",
+        "expedition_desc": "Expedition complete! The demon horde has been defeated. Your valor has strengthened your clan's position."
+    },
+    "lost_temple": {
+        "name": "Lost Temple",
+        "duration": 50,
+        "description": "Venture to the mysterious temple for ancient knowledge.",
+        "expedition_desc": "Expedition complete! The secrets of the temple have been revealed, and the clan's knowledge has greatly expanded."
+    },
+    "pirate_raid": {
+        "name": "Pirate Raid",
+        "duration": 40,
+        "description": "Capture the pirate ship and its treasures.",
+        "expedition_desc": "Expedition complete! The pirates have been defeated, and their treasure is now yours."
+    },
+    "volcanic_expedition": {
+        "name": "Volcanic Expedition",
+        "duration": 55,
+        "description": "Explore an active volcano to obtain rare gems.",
+        "expedition_desc": "Expedition complete! Volcanic gems have been obtained and now strengthen your clan."
+    },
+    "forest_spirits": {
+        "name": "Forest Spirits",
+        "duration": 35,
+        "description": "Perform rituals to obtain the aid of forest spirits.",
+        "expedition_desc": "Expedition complete! The forest spirits have bestowed mighty powers upon your clan."
+    },
+    "storm_challenge": {
+        "name": "Trial of the Storm",
+        "duration": 45,
+        "description": "Overcome a dangerous storm to gain great rewards.",
+        "expedition_desc": "Expedition complete! Your clan has successfully overcome the storm and found unique resources."
+    },
+    "mystic_cave": {
+        "name": "Mystic Cave",
+        "duration": 50,
+        "description": "Dive into the mystical caves to search for magical stones.",
+        "expedition_desc": "Expedition complete! The caves have opened their both secrets and magical stones are now yours."
+    },
+    "moonlit_ritual": {
+        "name": "Moonlit Ritual",
+        "duration": 65,
+        "description": "Perform the ritual to receive the blessings of the moon.",
+        "expedition_desc": "Expedition complete! The moon has bestowed its mystical blessings upon your clan."
+    },
+    "sea_monster_hunt": {
+        "name": "Sea Monster Hunt",
+        "duration": 70,
+        "description": "Hunt sea monsters to obtain rare artifacts.",
+        "expedition_desc": "Expedition complete! The sea monster has been defeated, and its artifacts are now in your hands."
+    },
+    "treasure_island": {
+        "name": "Treasure Island",
+        "duration": 60,
+        "description": "Explore the islands to find treasures and ancient maps.",
+        "expedition_desc": "Expedition complete! The treasure islands have revealed their riches."
+    },
+    "battle_of_giants": {
+        "name": "Battle of Giants",
+        "duration": 55,
+        "description": "A great battle between the ancient giants and your clan.",
+        "expedition_desc": "Expedition complete! The giants have been defeated, and your influence has increased."
+    },
+    "enchanted_forest": {
+        "name": "Enchanted Forest",
+        "duration": 50,
+        "description": "Delve into the enchanted forest to find ancient magical creatures.",
+        "expedition_desc": "Expedition complete! The magical creatures have become allies of your clan."
+    },
+    "iron_forge": {
+        "name": "Iron Forge",
+        "duration": 45,
+        "description": "Make a deal with the blacksmiths to obtain weapons for the clan.",
+        "expedition_desc": "Expedition complete! Blacksmiths have created unique weapons for your clan."
+    },
+    "crystal_mines": {
+        "name": "Crystal Mines",
+        "duration": 50,
+        "description": "Explore the crystal mines to obtain rare crystals.",
+        "expedition_desc": "Expedition complete! Crystals have been mined and are ready to enhance your clan's magic."
+    },
+    "celestial_relics": {
+        "name": "Celestial Relics",
+        "duration": 70,
+        "description": "Search for relics hidden in the skies.",
+        "expedition_desc": "Expedition complete! Celestial Relics now strengthen your clan."
+    },
+    "desert_phantom": {
+        "name": "Desert Phantom",
+        "duration": 40,
+        "description": "Catch the Desert Phantom to use its power.",
+        "expedition_desc": "Expedition complete! The Desert Phantom is now under your clan's control."
+    },
+    "mystic_fountain": {
+        "name": "Mystic Fountain",
+        "duration": 60,
+        "description": "Find the Mystic Fountain to obtain Magic Water.",
+        "expedition_desc": "Expedition complete! The magical water has strengthened your clan."
+    },
+    "phantom_raid": {
+        "name": "Phantom Raid",
+        "duration": 55,
+        "description": "Fight the phantoms and gain their powers.",
+        "expedition_desc": "Expedition complete! The phantoms have been defeated, and their powers are now yours."
+    },
+    "elemental_research": {
+        "name": "Elemental Research",
+        "duration": 50,
+        "description": "Study elemental energies to increase your magical power.",
+        "expedition_desc": "Expedition complete! Elemental energies have increased your magical power."
+    },
+    "sky_pirates": {
+        "name": "Sky Pirates",
+        "duration": 45,
+        "description": "Fight the pirates in the clouds and seize their treasures.",
+        "expedition_desc": "Expedition complete! The sky pirates have been defeated, their treasures are yours."
+    },
+    "eternal_winter": {
+        "name": "Eternal Winter",
+        "duration": 70,
+        "description": "Fight the eternal winter and obtain ancient powers.",
+        "expedition_desc": "Expedition complete! The Eternal Winter has been defeated, and your clan now wields its power."
+    },
+    "fire_temple": {
+        "name": "Fire Temple",
+        "duration": 60,
+        "description": "Explore the Fire Temple to obtain ancient fire artifacts.",
+        "expedition_desc": "Expedition complete! The fire artifacts now belong to your clan."
+    },
+    "ice_caverns": {
+        "name": "Ice Caverns",
+        "duration": 45,
+        "description": "Explore the ice caves to find frozen treasures.",
+        "expedition_desc": "Expedition complete! The ice caves have revealed their riches."
+    },
+    "behemoth_hunt": {
+        "name": "Behemoth Hunt",
+        "duration": 50,
+        "description": "Fight the giant Behemoth and seize its power.",
+        "expedition_desc": "Expedition complete! The Behemoth has been defeated, and its power now belongs to your clan."
+    },
+    "dragon_lair": {
+        "name": "Dragon's Lair",
+        "duration": 70,
+        "description": "Capture the Dragon's Lair and its treasure.",
+        "expedition_desc": "Expedition complete! The Dragon's Lair has been conquered, and the treasure is yours."
+    },
+    "storm_island": {
+        "name": "Storm Island",
+        "duration": 60,
+        "description": "Explore an island immersed in an eternal storm for artifacts.",
+        "expedition_desc": "Expedition complete! Storm Island has brought powerful artifacts to your clan."
+    },
+    "shadow_realm": {
+        "name": "Shadow Realm",
+        "duration": 65,
+        "description": "Dive into the world of shadows and uncover its secrets.",
+        "expedition_desc": "Expedition complete! The Shadow Realm has brought new knowledge to your clan."
+    },
+    "desert_ruins": {
+        "name": "Desert Ruins",
+        "duration": 45,
+        "description": "Explore the ruins in the desert to find forgotten artifacts.",
+        "expedition_desc": "Expedition complete! The Desert Artifacts are now in your clan's hands."
+    },
+    "wind_warriors": {
+        "name": "Wind Warriors",
+        "duration": 50,
+        "description": "Capture an army of Wind Warriors and their magical blades.",
+        "expedition_desc": "Expedition complete! The Wind Warriors are now under your command."
+    }
+}
