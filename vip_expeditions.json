@@ -1,0 +1,92 @@
+{
+    "chaos_dimension": {
+        "name": "⚡ Chaos Dimension",
+        "duration": 80,
+        "description": "Only VIPs can enter this unstable dimension full of chaos energy.",
+        "expedition_desc": "Your clan braved the Chaos Dimension and returned with forbidden powers!"
+    },
+    "cosmic_anomaly": {
+        "name": "🌌 Cosmic Anomaly",
+        "duration": 100,
+        "description": "A rare anomaly in the skies. Only VIP explorers dare to approach it.",
+        "expedition_desc": "You harvested stardust and cosmic relics from the anomaly!"
+    },
+    "gods_trial": {
+        "name": "👑 Trial of the Gods",
+        "duration": 120,
+        "description": "Face divine challenges that test the limits of mortals.",
+        "expedition_desc": "You passed the Trial of the Gods and received a legendary blessing!"
+    },
+    "void_prison": {
+        "name": "🕳️ Prison of the Void",
+        "duration": 90,
+        "description": "An ancient prison holding forgotten horrors. Few dare to enter.",
+        "expedition_desc": "You freed forbidden knowledge from the Void — but at what cost?"
+    },
+    "eternal_flame": {
+        "name": "🔥 Eternal Flame",
+        "duration": 110,
+        "description": "The eternal fire burns in a sacred volcano. Only the worthy may claim it.",
+        "expedition_desc": "Your clan captured the Eternal Flame and forged weapons of divine fire!"
+    },
+    "celestial_tournament": {
+        "name": "🏟️ Celestial Tournament",
+        "duration": 95,
+        "description": "The gods host a tournament of champions. VIPs are invited to fight for glory.",
+        "expedition_desc": "You triumphed in the Celestial Tournament and earned a place among legends!"
+    },
+    "dream_realm": {
+        "name": "💤 Dream Realm",
+        "duration": 85,
+        "description": "Travel through the Dream Realm to harness illusory powers.",
+        "expedition_desc": "Your clan tamed the Dream Realm and brought back artifacts of imagination!"
+    },
+    "abyss_gate": {
+        "name": "⚫ Gate of the Abyss",
+        "duration": 105,
+        "description": "The Abyss opens once in an age. VIPs can dare enter its darkness.",
+        "expedition_desc": "From the Abyss you brought back cursed treasures of immense power!"
+    },
+    "time_rift": {
+        "name": "⏳ Rift of Time",
+        "duration": 120,
+        "description": "A tear in reality allows travelers to bend time itself.",
+        "expedition_desc": "You altered time and returned with future knowledge and rare artifacts!"
+    },
+    "divine_library": {
+        "name": "📚 Divine Library",
+        "duration": 75,
+        "description": "A library of gods hidden between worlds. Knowledge itself is the prize.",
+        "expedition_desc": "You studied forbidden tomes and unlocked new secrets for your clan!"
+    },
+    "soul_forge": {
+        "name": "💎 Soul Forge",
+        "duration": 100,
+        "description": "A mythical forge where souls are melted into weapons.",
+        "expedition_desc": "Your clan crafted soul-bound relics of unimaginable power!"
+    },
+    "phantom_carnival": {
+        "name": "🎭 Phantom Carnival",
+        "duration": 85,
+        "description": "A strange carnival where nothing is real, yet everything can be won.",
+        "expedition_desc": "You survived the Phantom Carnival and returned with rare illusions!"
+    },
+    "starlight_temple": {
+        "name": "✨ Starlight Temple",
+        "duration": 90,
+        "description": "A sacred temple hidden in the stars. Only the chosen may enter.",
+        "expedition_desc": "You unlocked the blessings of the stars and brought their eternal light!"
+    },
+    "dragon_ascent": {
+        "name": "🐉 Dragon Ascent",
+        "duration": 115,
+        "description": "Climb the highest mountains to challenge an ancient celestial dragon.",
+        "expedition_desc": "You defeated the Celestial Dragon and claimed its treasures!"
+    },
+    "origin_fountain": {
+        "name": "🌊 Fountain of Origin",
+        "duration": 100,
+        "description": "The mythical source of all magic. Its waters grant eternal power.",
+        "expedition_desc": "Your clan drank from the Fountain of Origin and gained everlasting strength!"
+    }
+}
