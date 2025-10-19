@@ -1,7 +1,7 @@
 [
   {
     "boss_name": "Dragon Guard",
-    "boss_avatar": "https://example.com/dragon.png",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/20251019_1627_Демон_с_мечами_remix_01k7yac3j2e61aa9dgjqbbq9qs-removebg-preview.png",
     "boss_hp": 100000,
     "boss_time": 604800
   }
