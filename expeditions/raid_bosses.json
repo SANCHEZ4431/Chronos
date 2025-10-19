@@ -2,7 +2,7 @@
   {
     "boss_name": "Dragon Guard",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/dragon_guard_1.png",
-    "boss_hp": 100000,
+    "boss_hp": 25000,
     "boss_time": 604800
   }
 ]
