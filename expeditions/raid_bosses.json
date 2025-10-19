@@ -1,0 +1,8 @@
+[
+  {
+    "boss_name": "Dragon Guard",
+    "boss_avatar": "https://example.com/dragon.png",
+    "boss_hp": 100000,
+    "boss_time": 604800
+  }
+]
