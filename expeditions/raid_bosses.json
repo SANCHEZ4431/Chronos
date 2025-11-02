@@ -18,6 +18,6 @@
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/hellcat.png",
     "boss_hp": 40000,
     "boss_time": 604800,
-    "boss_type": "cosmic"
+    "boss_type": "void"
   }
 ]
