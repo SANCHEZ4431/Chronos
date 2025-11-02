@@ -3,18 +3,21 @@
     "boss_name": "Dragon Guard",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/dragon_guard_1.png",
     "boss_hp": 25000,
-    "boss_time": 604800
+    "boss_time": 604800,
+    "boss_type": "fire"
   },
   {
     "boss_name": "May",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/may.png",
     "boss_hp": 50000,
-    "boss_time": 604800
+    "boss_time": 604800,
+    "boss_type": "nature"
   },
   {
     "boss_name": "Hellcat",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/hellcat.png",
     "boss_hp": 40000,
-    "boss_time": 604800
+    "boss_time": 604800,
+    "boss_type": "dark"
   }
 ]
