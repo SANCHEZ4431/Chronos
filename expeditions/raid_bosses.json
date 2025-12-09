@@ -2,22 +2,99 @@
   {
     "boss_name": "Dragon Guard",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/dragon_guard_1.png",
-    "boss_hp": 25000,
+    "boss_hp": 16000,
     "boss_time": 604800,
     "boss_type": "fire"
   },
   {
     "boss_name": "May",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/may.png",
-    "boss_hp": 50000,
+    "boss_hp": 16500,
     "boss_time": 604800,
     "boss_type": "nature"
   },
   {
     "boss_name": "Hellcat",
     "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/hellcat.png",
-    "boss_hp": 40000,
+    "boss_hp": 17500,
     "boss_time": 604800,
     "boss_type": "void"
-  }
+  },
+  {
+    "boss_name": "Lilly",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_lilly.png",
+    "boss_hp": 15000,
+    "boss_time": 604800,
+    "boss_type": "copper"
+  },
+  {
+    "boss_name": "Lotus",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_lotus.png",
+    "boss_hp": 10000,
+    "boss_time": 604800,
+    "boss_type": "neon_pink"
+  },
+  {
+    "boss_name": "Nova",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_nova.png",
+    "boss_hp": 12500,
+    "boss_time": 604800,
+    "boss_type": "velvet"
+  },
+  {
+    "boss_name": "Rose",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_rose.png",
+    "boss_hp": 12000,
+    "boss_time": 604800,
+    "boss_type": "crimson"
+  },
+  {
+    "boss_name": "Aster",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_aster.png",
+    "boss_hp": 15000,
+    "boss_time": 604800,
+    "boss_type": "obsidian"
+  },
+  {
+    "boss_name": "Ayumi",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_ayumi.png",
+    "boss_hp": 11500,
+    "boss_time": 604800,
+    "boss_type": "bronze"
+  },
+  {
+    "boss_name": "Bird",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_bird.png",
+    "boss_hp": 14075,
+    "boss_time": 604800,
+    "boss_type": "plasma"
+  },
+  {
+    "boss_name": "Harpy",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_harpy.png",
+    "boss_hp": 18000,
+    "boss_time": 604800,
+    "boss_type": "galactic"
+  },
+  {
+    "boss_name": "Widow",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_hunter.png",
+    "boss_hp": 11000,
+    "boss_time": 604800,
+    "boss_type": "velvet"
+  },
+  {
+    "boss_name": "Justice",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_justice.png",
+    "boss_hp": 6969,
+    "boss_time": 604800,
+    "boss_type": "dark"
+  },
+  {
+    "boss_name": "Hellcat",
+    "boss_avatar": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/boss_kali.png",
+    "boss_hp": 20000,
+    "boss_time": 604800,
+    "boss_type": "neon_green"
+  },
 ]
