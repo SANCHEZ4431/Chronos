@@ -128,5 +128,27 @@
         },
         "sent_at": "2025-10-15T18:10:00Z",
         "expired": "2025-10-31T00:00:00Z"
+    },
+    {
+        "to_id": "all_users",
+        "from_name": "Nova",
+        "subject": "SYSTEM MESSAGE",
+        "body": "An issue with reward distribution after raid completion has been discovered! We're currently investigating a fix. While we're working on it, here's some compensation!",
+        "attachments": {
+            "coins": 500,
+            "resources": {
+                "gold": 250,
+                "magic_crystals": 250,
+                "wood": 250,
+                "stone": 250,
+                "iron": 250,
+                "food": 250,
+                "ores": 250,
+                "fabric": 250,
+                "rare_artifacts": 250
+            }
+        },
+        "sent_at": "2025-12-18T18:10:00Z",
+        "expired": "2025-12-31T00:00:00Z"
     }
 ]
