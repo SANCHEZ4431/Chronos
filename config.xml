@@ -210,59 +210,6 @@
 <Button Text="compareCloseBtn" Color="Beige" Url=""/>
 <Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
 </item>
-<!-- 		Name Sale_RU1		 -->
-<item ID="2" Name="Sale_RU1" PlatformID="1" LangID="ru" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/rus.jpg" ImageURLHash="42325AED1E8C9CA50EDE7454423D6FAA">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_EN1" PlatformID="1" LangID="en" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_DE1" PlatformID="1" LangID="de" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/ger.jpg" ImageURLHash="6346E1151D59B3CD0A0E2172CF54698C">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_FR1" PlatformID="1" LangID="fr" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/fra.jpg" ImageURLHash="567AB3FC65FAEB37FF8FC998602BBCC3">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_IT1" PlatformID="1" LangID="it" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/ita.jpg" ImageURLHash="AA6A1CD3B20191B253F4705B1AC48389">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_ES1" PlatformID="1" LangID="es" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/spa.jpg" ImageURLHash="902D67AF296F5CA9A63EF8F82B468C18">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_PT1" PlatformID="1" LangID="pt" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/por.jpg" ImageURLHash="5241815FDA803D88D3F7FBA8C5E12509">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_JA1" PlatformID="1" LangID="ja" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/jap.jpg" ImageURLHash="BF99A635AA1F053DEFC50679FBBDAA0A">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_ZH1" PlatformID="1" LangID="zh" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/chn-sim.jpg" ImageURLHash="85932C9698E32F3D3312923403AB85BA">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_KO1" PlatformID="1" LangID="ko" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/kor.jpg" ImageURLHash="DB2FE1E62790DB978B3CEEE28E330BDD">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_TR1" PlatformID="1" LangID="tr" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/tur.jpg" ImageURLHash="CEAA0A4B2CBC65EE01D440F122259D3F">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_PL1" PlatformID="1" LangID="pl" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_MS1" PlatformID="1" LangID="ms" MinVersion="1.9.7" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
 <!--         Android          -->
 <!-- 		Name Sale_RU4		 -->
 <item ID="1" Name="Sale_RU4" PlatformID="2" LangID="ru" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764547140" StartDate="1764291600" ImageURL="https://assets.nekki.com/shadowfight/news/sale_10_10_2025/rus.jpg" ImageURLHash="E0A0575978613AEDDF5D471C27851D85">
@@ -316,59 +263,6 @@
 <item ID="1" Name="Sale_MS4" PlatformID="2" LangID="ms" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764547140" StartDate="1764291600" ImageURL="https://assets.nekki.com/shadowfight/news/sale_10_10_2025/eng.jpg" ImageURLHash="B4D87F590921E3E9C7BFEB2A91993CD1">
 <Button Text="compareCloseBtn" Color="Beige" Url=""/>
 <Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
-</item>
-<!-- 		Name Sale_RU1		 -->
-<item ID="2" Name="Sale_RU1" PlatformID="2" LangID="ru" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/rus.jpg" ImageURLHash="42325AED1E8C9CA50EDE7454423D6FAA">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_EN1" PlatformID="2" LangID="en" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_DE1" PlatformID="2" LangID="de" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/ger.jpg" ImageURLHash="6346E1151D59B3CD0A0E2172CF54698C">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_FR1" PlatformID="2" LangID="fr" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/fra.jpg" ImageURLHash="567AB3FC65FAEB37FF8FC998602BBCC3">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_IT1" PlatformID="2" LangID="it" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/ita.jpg" ImageURLHash="AA6A1CD3B20191B253F4705B1AC48389">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_ES1" PlatformID="2" LangID="es" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/spa.jpg" ImageURLHash="902D67AF296F5CA9A63EF8F82B468C18">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_PT1" PlatformID="2" LangID="pt" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/por.jpg" ImageURLHash="5241815FDA803D88D3F7FBA8C5E12509">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_JA1" PlatformID="2" LangID="ja" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/jap.jpg" ImageURLHash="BF99A635AA1F053DEFC50679FBBDAA0A">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_ZH1" PlatformID="2" LangID="zh" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/chn-sim.jpg" ImageURLHash="85932C9698E32F3D3312923403AB85BA">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_KO1" PlatformID="2" LangID="ko" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/kor.jpg" ImageURLHash="DB2FE1E62790DB978B3CEEE28E330BDD">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_TR1" PlatformID="2" LangID="tr" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/tur.jpg" ImageURLHash="CEAA0A4B2CBC65EE01D440F122259D3F">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_PL1" PlatformID="2" LangID="pl" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_MS1" PlatformID="2" LangID="ms" MinVersion="1.9.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
 </item>
 <!--         Localbuild           -->
 <!-- 		Name Sale_RU4		 -->
@@ -426,59 +320,6 @@
 <item ID="1" Name="Sale_MS4" PlatformID="11" LangID="ms" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764547140" StartDate="1764291600" ImageURL="https://assets.nekki.com/shadowfight/news/sale_10_10_2025/eng.jpg" ImageURLHash="B4D87F590921E3E9C7BFEB2A91993CD1">
 <Button Text="compareCloseBtn" Color="Beige" Url=""/>
 <Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
-</item>
-<!-- 		Name Sale_RU1		 -->
-<item ID="2" Name="Sale_RU1" PlatformID="11" LangID="ru" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/rus.jpg" ImageURLHash="42325AED1E8C9CA50EDE7454423D6FAA">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_EN1" PlatformID="11" LangID="en" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_DE1" PlatformID="11" LangID="de" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/ger.jpg" ImageURLHash="6346E1151D59B3CD0A0E2172CF54698C">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_FR1" PlatformID="11" LangID="fr" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/fra.jpg" ImageURLHash="567AB3FC65FAEB37FF8FC998602BBCC3">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_IT1" PlatformID="11" LangID="it" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/ita.jpg" ImageURLHash="AA6A1CD3B20191B253F4705B1AC48389">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_ES1" PlatformID="11" LangID="es" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/spa.jpg" ImageURLHash="902D67AF296F5CA9A63EF8F82B468C18">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_PT1" PlatformID="11" LangID="pt" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/por.jpg" ImageURLHash="5241815FDA803D88D3F7FBA8C5E12509">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_JA1" PlatformID="11" LangID="ja" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/jap.jpg" ImageURLHash="BF99A635AA1F053DEFC50679FBBDAA0A">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_ZH1" PlatformID="11" LangID="zh" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/chn-sim.jpg" ImageURLHash="85932C9698E32F3D3312923403AB85BA">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_KO1" PlatformID="11" LangID="ko" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/kor.jpg" ImageURLHash="DB2FE1E62790DB978B3CEEE28E330BDD">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_TR1" PlatformID="11" LangID="tr" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/tur.jpg" ImageURLHash="CEAA0A4B2CBC65EE01D440F122259D3F">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_PL1" PlatformID="11" LangID="pl" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
-</item>
-<item ID="2" Name="Sale_MS1" PlatformID="11" LangID="ms" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764457200" StartDate="1761742800" ImageURL="https://assets.nekki.com/shadowfight/news/SF4_Promo_Steam/В2_29_10_29_11/eng.jpg" ImageURLHash="3CE9DEC56F727BDEE1126E6B54F1BE26">
-<Button Text="compareCloseBtn" Color="Beige" Url=""/>
-<Button Text="dlgBtnRedirect" Color="Green" Url="https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/1731290?af_media_source=crosspromo_SF2&af_campaign_id=20251020SF2&af_campaign=20251024_SFA_Steam_crosspromo_inappSF2_earlyaccess&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1446890%2FShadow_Fight_Arena%2F"/>
 </item>
 <!-- 		Name Sale_RU3		 -->
 </news>
