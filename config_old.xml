@@ -282,7 +282,7 @@
 		<item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_NY17_off_2018-01-10_10-51.dz" MinVersion="1.9.34" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="9.3" Hash="f7a1e1e459674344307a505ac52a7fae" />
 		<item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clans_NY17_off_2018-01-10_10-51.dz" MinVersion="1.9.34" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="9.3" Hash="f7a1e1e459674344307a505ac52a7fae" />
 		<item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clan_ST_v18_2018-01-31_09-08.dz" MinVersion="1.9.35" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="11.5" Hash="82fe395fe1ba0429df55efa119a8f3b7" />
-		<item ID="137" Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/packs/clan_ST_v18_2018-01-31_09-08.dz" MinVersion="1.9.35" PlatformID="1" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="11.5" Hash="82fe395fe1ba0429df55efa119a8f3b7" />
+		<item ID="140" Name="MOD_DZ" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD" MinVersion="1.9.35" PlatformID="2" Attach="1" ObjectNumber="7" Active="0" Reload="0" Size="383" Hash="EFBD2E3200ECC5ABB98EE683E16C9CD5" />
 	</packs>
 	<price>
 		<item ID="4" Name="Pile_Gems" Price="2.99" ProductID="com.nekki.shadowfight.jemspack1" Amount="100.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="" EndDate="" NewAmount="130" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0" />
