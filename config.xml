@@ -1218,7 +1218,8 @@
 <item Name="ZONE_2" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_2_13-20-21_24_11_2025_00872616b91397bc5a1b0fcd08bd0395_3946112396_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="15497050" Hash="1768D4E15B5B8147419D3146CAE67F1C"/>
 <item Name="ZONE_4" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_4_19-50-48_25_11_2025_b4ff6b5ec6a149f167909426b77c49a3_3553739910_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="13589818" Hash="714A2B43F927F036AE28857D32F7405D"/>
 <item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_19-50-48_25_11_2025_be0aa0948dfb9c61bf841a95ec5008b0_2939153459_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="103173047" Hash="BDC714C7C3AB33E1CCD19821542BFBE1"/>
-<item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="401903696" Hash="EFBD2E3200ECC5ABB98EE683E16C9CD5"/>
+<item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_0" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="401930797" Hash="068FC8E5E7902BE2B7E0949337154126"/>
+<item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_0" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="18018" Hash="3F7B223D3A8FC26C97D7DDEE43FF595F"/>
 <!-- local 2.41.8 -->
 </packs>
 <price>
