@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "name": "test",
+    "description": "Testing",
+    "version": "1.0.0",
+    "author": "SANCHEZ4431"
+  },
+  "commands": [
+    {
+      "name": "hello",
+      "response": {
+        "type": "reply_chain",
+        "messages": [
+          "hello {user}",
+          "{user}, Hello"
+        ]
+      }
+    }
+  ]
+}
