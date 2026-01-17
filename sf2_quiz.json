@@ -283,5 +283,21 @@
         "question": "Who is this character?",
         "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/preview_raid_events.son_of_the_sun_raid.png",
         "answer": ["son of sun", "son of the sun"]
+    },
+    {
+        "question": "How many rounds does survival mode has?",
+        "answer": ["10"]
+    },
+    {
+        "question": "Which mythical set enchantment does Ascension mode give?",
+        "answer": ["Tempest Rage"]
+    },
+    {
+        "question": "What are titan's experiment specimens called?",
+        "answer": ["Scavengers", "Scavenger"]
+    },
+    {
+        "question": "What is Blackness's true Identity?",
+        "answer": ["May"]
     }
 ]
