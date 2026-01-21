@@ -1223,7 +1223,7 @@
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_1" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="414353499" Hash="3C52123ED193F9B0B68B5D82D771A5F1"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_0" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="18018" Hash="3F7B223D3A8FC26C97D7DDEE43FF595F"/>
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_2" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="411417253" Hash="714A0A22438E55DA924BCDA7B188CD66"/>
-  <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_1" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="18018" Hash="CAA55683BE0BAFABDA157F9D15B4B841"/>
+<!--<item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_1" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="18018" Hash="CAA55683BE0BAFABDA157F9D15B4B841"/>-->
 <!-- local 2.41.8 -->
 </packs>
 <price>
