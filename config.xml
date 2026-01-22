@@ -1225,6 +1225,7 @@
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_2" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="411417253" Hash="714A0A22438E55DA924BCDA7B188CD66"/>
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_3" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="411379789" Hash="664940CDAD4EB56E2625B46B554DF3E2"/>
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_4" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="411372163" Hash="22AD9DC27346B679B16F50BEDBF406CF"/>
+<item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_5" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="415696200" Hash="E3252DC4E01BC7174BC09D811B19022C"/>
 <!-- local 2.41.8 -->
 </packs>
 <price>
