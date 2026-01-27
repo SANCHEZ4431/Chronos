@@ -1,5 +1,5 @@
 <config>
   <updates>
-    <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_updates.bundle" Sha256="945c72cc692f46f077a8fb083331eb2ef91988fee8cb1675f4ede97695522ade" />
+    <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/icon.zip" Sha256="53648e7ffd36805e129bdcb3795fe44af00511f598da1834fae52049b29a216c" />
   </updates>
 </config>
