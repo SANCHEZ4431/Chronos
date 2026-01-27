@@ -1,0 +1,5 @@
+<config>
+  <updates>
+    <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/config_updates.bundle" Sha256="945c72cc692f46f077a8fb083331eb2ef91988fee8cb1675f4ede97695522ade" />
+  </updates>
+</config>
