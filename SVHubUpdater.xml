@@ -1,4 +1,5 @@
 <launcher>
   <version>1.0.1</version>
-  <url>https://site.com/SVHubSetup.exe</url>
+  <url>https://github.com/SANCHEZ4431/Chronos/releases/download/StardewHub/SVHubSetup.exe</url>
+  <sha256>sha256:ffcecffcfdf382fa71859b5467edfeebea452676313a03a27a00ed1852c8e187</sha256>
 </launcher>
