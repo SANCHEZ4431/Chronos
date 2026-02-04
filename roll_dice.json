@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "name": "fun_dice",
+    "version": "1.0.0",
+    "author": "SANCHEZ431",
+    "description": "Dice fun commands"
+  },
+  "commands": [
+    {
+      "name": "dice",
+      "description": "Roll a dice",
+      "response": {
+        "type": "random",
+        "variants": [
+          "{user} rolled 🎲 {random:1-6}",
+          "Dice result: {random:1-6}"
+        ]
+      }
+    }
+  ]
+}
