@@ -3,5 +3,6 @@
     <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/icon.zip" Sha256="53648e7ffd36805e129bdcb3795fe44af00511f598da1834fae52049b29a216c" />
     <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/Mods.zip" Sha256="9ac125ca25590aa03b7a7bbfc2b596eb3ac3128fed1176e7ae7697ff77c10b4a" />
     <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/ModsSV/Mods.zip" Sha256="654e489685e8efdfcd79b7b304c014b55313c05e84ed765b04585657c71cf782" />
+    <item name="Mods" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/ModsSV/Mods_1.zip" Sha256="fb77fbe8fb1aa593eba84fe3352fa04aaa8378380021eece8912570263abec41" />
   </updates>
 </config>
