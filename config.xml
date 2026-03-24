@@ -1233,6 +1233,7 @@
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_4" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="8525348" Hash="755E829A76576D3D2A518A8C468F2C19"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_5" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="9019652" Hash="87B73B25B8E2C5532C9443547BE9AC64"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_6" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="10982319" Hash="EF98826846CC1DD44425D20C69541F46"/>
+<item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_7" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="14236593" Hash="C39486D80A7E4C0FA0673B800EEA0C83"/>
 <!-- local 2.41.8 -->
 </packs>
 <price>
