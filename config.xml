@@ -28,6 +28,7 @@
 <ExcData PartName="" PartStackTrace="EKLKAMMDADG+EJFGBFBHIKN" PartLog=""/>
 </IgnoredExceptions>
 <Variables>
+  
 </Variables>
 <RevenueMultipliers>
 <Multiplier Type="DEFAULT" Value="0.7"/>
@@ -70,7 +71,7 @@
 <item ID="1" Name="Sale_MS4" PlatformID="11" LangID="ms" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764547140" StartDate="1764291600" ImageURL="https://assets.nekki.com/shadowfight/news/sale_10_10_2025/eng.jpg" ImageURLHash="B4D87F590921E3E9C7BFEB2A91993CD1">
 <Button Text="compareCloseBtn" Color="Beige" Url=""/>
 <Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
-</item
+</item>
 </news>
 <video>
 <!-- local -->
