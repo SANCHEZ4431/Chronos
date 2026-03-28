@@ -28,7 +28,7 @@
 <ExcData PartName="" PartStackTrace="EKLKAMMDADG+EJFGBFBHIKN" PartLog=""/>
 </IgnoredExceptions>
 <Variables>
-  
+<item Name="WeeklyOffer_40_End" Value="1762387140" PlatformID="1,2,11" MinVersion="2.41.6"/>
 </Variables>
 <RevenueMultipliers>
 <Multiplier Type="DEFAULT" Value="0.7"/>
