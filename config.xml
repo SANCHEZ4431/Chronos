@@ -1235,6 +1235,7 @@
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_6" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="10982319" Hash="EF98826846CC1DD44425D20C69541F46"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_7" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="14236593" Hash="C39486D80A7E4C0FA0673B800EEA0C83"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_14" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="2968009" Hash="D8C11E3BA575AA3B6B0B2B42CBDF07DB"/>
+<item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_15" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="3100111" Hash="7785117F0F51489424B905352FC62F24"/>
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_7" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="409601768" Hash="50DC49C696993D2B56F93D42C3290F0F"/>
 <!-- android 2.41.8 -->
 <item Name="EVENTS/HALLOWEEN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/halloween_25_14-59-13_24_11_2025_57a214e567dc75e050d56f9cadea2604_2414832207_android" MinVersion="2.41.8" PlatformID="2" Attach="1" Active="0" Reload="1" Size="21987" Hash="365119C9C9731C689B3631CE2684618D"/>
