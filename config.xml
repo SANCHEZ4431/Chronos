@@ -1,7 +1,5 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <data>
-<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
-<script/>
-<script/>
 <script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
 <ConfigVersion Value=""/>
 <ConfigVersions>
@@ -28,7 +26,100 @@
 <ExcData PartName="" PartStackTrace="EKLKAMMDADG+EJFGBFBHIKN" PartLog=""/>
 </IgnoredExceptions>
 <Variables>
+<item Name="EventStart" Value="1771318800" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="EventEnd" Value="1771891200" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="EventIndex" Value="260217" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="MiniEventGift" Value="EventGift260317" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="MiniEventStart" Value="1773738000" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="MiniEventEnd" Value=" 1774483200" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="MiniEventIndex" Value="260317" PlatformID="1,2,11,13" MinVersion="2.41.8"/>
+<item Name="OfferDisenabled" Value="1" PlatformID="1,2,11" MinVersion="2.32.0"/>
+<item Name="DailyOffersEnabled" Value="1" PlatformID="1,2,11" MinVersion="2.35.0"/>
+<item Name="NotEnoughCurrencyColor" Value="#9b1c07"/>
+<item Name="AutoShowRaidDailyWindow" Value="1"/>
+<item Name="SurvivalRestartLimitPerFight" Value="1"/>
+<item Name="SurvivalRestartTimerValue" Value="10"/>
+<item Name="JuniorLotteryTime" Value="86400" PlatformID="1,2,11" MinVersion="2.15.0"/>
+<item Name="EventOfferCD" Value="86400" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<!--  Sheres  -->
+<item Name="EventOffer1_Start" Value="1737180000" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<item Name="EventOffer1_End" Value="1748266400" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<!--  Keys  -->
+<item Name="EventOffer2_Start" Value="1735376400" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<item Name="EventOffer2_End" Value="1735498800" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<!--  Keys and Consumables  -->
+<item Name="EventOfferKeysConsumables_Start" Value="1744448400" PlatformID="1,2,11" MinVersion="2.41.5"/>
+<item Name="EventOfferKeysConsumables_End" Value="1744588500" PlatformID="1,2,11" MinVersion="2.41.5"/>
+<!--  Coins  -->
+<item Name="EventOffer3_Start" Value="1737266400" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<item Name="EventOffer3_End" Value="1737352800" PlatformID="1,2,11" MinVersion="2.39.0"/>
+<!--  WeeklyOffers  -->
+<item Name="WeeklyOffer_24_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_24_Start" Value="1746435600" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_24_End" Value="1747007700" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_25_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_25_Start" Value="1747040400" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_25_End" Value="1747612500" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_26_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_26_Start" Value="1747645200" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_26_End" Value="1748217300" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_27_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_27_Start" Value="1748250000" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_27_End" Value="1748822100" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_28_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_28_Start" Value="1748854800" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_28_End" Value="1749426900" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_29_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_29_Start" Value="1749459600" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_29_End" Value="1750031700" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_30_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_30_Start" Value="1750064400" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_30_End" Value="1750636500" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_31_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_31_Start" Value="1750669200" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_31_End" Value="1751241300" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_32_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_32_Start" Value="1751274000" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_32_End" Value="1751846100" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_33_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_33_Start" Value="1751878800" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_33_End" Value="1752450900" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_34_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_34_Start" Value="1752483600" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_34_End" Value="1753055700" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_35_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_35_Start" Value="1753088400" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_35_End" Value="1753660500" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_36_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_36_Start" Value="1753693200" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_36_End" Value="1754265300" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_37_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_37_Start" Value="1754298000" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_37_End" Value="1754870100" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_1_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_1_Start" Value="1754902800" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_1_End" Value="1755474900" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_2_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_2_Start" Value="1755507600" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_2_End" Value="1756079700" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_3_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_3_Start" Value="1756112400" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_summerfest25_3_End" Value="1756684500" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_38_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_38_Start" Value="1757898000" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_38_End" Value="1758495600" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_39_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_39_Start" Value="1760922000" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_39_End" Value="1761522900" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_40_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_40_Start" Value="1761782460" PlatformID="1,2,11" MinVersion="2.41.6"/>
 <item Name="WeeklyOffer_40_End" Value="1762387140" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_41_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_41_Start" Value="1766534460" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_41_End" Value="1767139140" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_42_Enabled" Value="1" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_42_Start" Value="1771981200" PlatformID="1,2,11" MinVersion="2.41.6"/>
+<item Name="WeeklyOffer_42_End" Value="1772582100" PlatformID="1,2,11" MinVersion="2.41.6"/>
 </Variables>
 <RevenueMultipliers>
 <Multiplier Type="DEFAULT" Value="0.7"/>
@@ -68,7 +159,167 @@
 <Icon Type="SF3" PlatformID="1,2,11" url="https://nekki-shades.onelink.me/cXu0/auxuabxk" EndDate="1706976000" StartDate="0" ImageURL="https://assets.nekki.com/shadowfight/icons/shades/ShadesButton.png" ImageURLHash=""/>
 </IconDojo>
 <news>
-<item ID="1" Name="Sale_MS4" PlatformID="11" LangID="ms" MinVersion="2.5.0" SpenderTypeID="" EndDate="1764547140" StartDate="1764291600" ImageURL="https://assets.nekki.com/shadowfight/news/sale_10_10_2025/eng.jpg" ImageURLHash="B4D87F590921E3E9C7BFEB2A91993CD1">
+<!--         iOS          -->
+<!-- 		Name Sale_RU1		 -->
+<item ID="1" Name="Sale_RU1" PlatformID="1" LangID="ru" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/rus.jpg" ImageURLHash="CC56A76907412B44E386F66E95EEF6E4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_EN1" PlatformID="1" LangID="en" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_DE1" PlatformID="1" LangID="de" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/ger.jpg" ImageURLHash="1771C87F599C3204E5115CDA31D831AD">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_FR1" PlatformID="1" LangID="fr" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/fra.jpg" ImageURLHash="DCD22F3644E472071AE0F0484D8325BD">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_IT1" PlatformID="1" LangID="it" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/ita.jpg" ImageURLHash="047B5C49D3B38CC563CF9E2DFCED4437">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_ES1" PlatformID="1" LangID="es" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/spa.jpg" ImageURLHash="F7A34B84EC46318D9580E461E8C17CC1">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_PT1" PlatformID="1" LangID="pt" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/por.jpg" ImageURLHash="BF4729D1ADCF16CB9E9B20062DFD71A4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_JA1" PlatformID="1" LangID="ja" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/jap.jpg" ImageURLHash="F6345864A31333D715F4745E95E474C4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_ZH1" PlatformID="1" LangID="zh" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/chn-sim.jpg" ImageURLHash="C3132D28A91A5D989525D6E138B66F61">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_KO1" PlatformID="1" LangID="ko" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/kor.jpg" ImageURLHash="82E489CD7A9C2B39B50A76006EA183FB">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_TR1" PlatformID="1" LangID="tr" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/tur.jpg" ImageURLHash="B6A2FED3BA7DA35E49BE1B860E7AAF0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_PL1" PlatformID="1" LangID="pl" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<item ID="1" Name="Sale_MS1" PlatformID="1" LangID="ms" MinVersion="1.9.7" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+</item>
+<!--         Android          -->
+<!-- 		Name Sale_RU1		 -->
+<item ID="1" Name="Sale_RU1" PlatformID="2" LangID="ru" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/rus.jpg" ImageURLHash="CC56A76907412B44E386F66E95EEF6E4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_EN1" PlatformID="2" LangID="en" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_DE1" PlatformID="2" LangID="de" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/ger.jpg" ImageURLHash="1771C87F599C3204E5115CDA31D831AD">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_FR1" PlatformID="2" LangID="fr" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/fra.jpg" ImageURLHash="DCD22F3644E472071AE0F0484D8325BD">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_IT1" PlatformID="2" LangID="it" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/ita.jpg" ImageURLHash="047B5C49D3B38CC563CF9E2DFCED4437">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_ES1" PlatformID="2" LangID="es" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/spa.jpg" ImageURLHash="F7A34B84EC46318D9580E461E8C17CC1">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_PT1" PlatformID="2" LangID="pt" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/por.jpg" ImageURLHash="BF4729D1ADCF16CB9E9B20062DFD71A4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_JA1" PlatformID="2" LangID="ja" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/jap.jpg" ImageURLHash="F6345864A31333D715F4745E95E474C4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_ZH1" PlatformID="2" LangID="zh" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/chn-sim.jpg" ImageURLHash="C3132D28A91A5D989525D6E138B66F61">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_KO1" PlatformID="2" LangID="ko" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/kor.jpg" ImageURLHash="82E489CD7A9C2B39B50A76006EA183FB">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_TR1" PlatformID="2" LangID="tr" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/tur.jpg" ImageURLHash="B6A2FED3BA7DA35E49BE1B860E7AAF0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_PL1" PlatformID="2" LangID="pl" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_MS1" PlatformID="2" LangID="ms" MinVersion="1.9.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.gemspack2"/>
+</item>
+<!--         Localbuild           -->
+<!-- 		Name Sale_RU1		 -->
+<!--         Huawei         -->
+<!-- 		Name Sale_RU1		 -->
+<item ID="1" Name="Sale_RU1" PlatformID="11" LangID="ru" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/rus.jpg" ImageURLHash="CC56A76907412B44E386F66E95EEF6E4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_EN1" PlatformID="11" LangID="en" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_DE1" PlatformID="11" LangID="de" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/ger.jpg" ImageURLHash="1771C87F599C3204E5115CDA31D831AD">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_FR1" PlatformID="11" LangID="fr" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/fra.jpg" ImageURLHash="DCD22F3644E472071AE0F0484D8325BD">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_IT1" PlatformID="11" LangID="it" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/ita.jpg" ImageURLHash="047B5C49D3B38CC563CF9E2DFCED4437">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_ES1" PlatformID="11" LangID="es" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/spa.jpg" ImageURLHash="F7A34B84EC46318D9580E461E8C17CC1">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_PT1" PlatformID="11" LangID="pt" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/por.jpg" ImageURLHash="BF4729D1ADCF16CB9E9B20062DFD71A4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_JA1" PlatformID="11" LangID="ja" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/jap.jpg" ImageURLHash="F6345864A31333D715F4745E95E474C4">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_ZH1" PlatformID="11" LangID="zh" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/chn-sim.jpg" ImageURLHash="C3132D28A91A5D989525D6E138B66F61">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_KO1" PlatformID="11" LangID="ko" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/kor.jpg" ImageURLHash="82E489CD7A9C2B39B50A76006EA183FB">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_TR1" PlatformID="11" LangID="tr" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/tur.jpg" ImageURLHash="B6A2FED3BA7DA35E49BE1B860E7AAF0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_PL1" PlatformID="11" LangID="pl" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
+<Button Text="compareCloseBtn" Color="Beige" Url=""/>
+<Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
+</item>
+<item ID="1" Name="Sale_MS1" PlatformID="11" LangID="ms" MinVersion="2.5.0" SpenderTypeID="" EndDate="1773014100" StartDate="1772758800" ImageURL="https://assets.nekki.com/shadowfight/news/May/CasketSale400-600/small/eng.jpg" ImageURLHash="23BBF9536AAB1860FC635BF58287AC0C">
 <Button Text="compareCloseBtn" Color="Beige" Url=""/>
 <Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.huawei.gemspack2"/>
 </item>
@@ -944,30 +1195,43 @@
 <item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-25-16_14_10_2025_b557a9f04737163251a5fd96fd6b107b_2489061736_android" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="104477627" Hash="853531D477AF6ED49E28433EE6496D9D"/>
 <!-- local 2.41.6 -->
 <!-- iOS 2.41.8 -->
+<item Name="EVENTS/CNY25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/cny25_17-32-01_10_02_2026_7ccb4b7623f6dd362d8afadc330fee00_3650183284_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="0" Size="5252638" Hash="0CD003DA560A368227CE3F5265A8B6BA"/>
+<item Name="EVENTS/CNY26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/cny26_17-07-08_11_02_2026_4d4d96e192ddd8bdacfa3ce635f95710_1218485573_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="779367" Hash="3CD1993AE9FB6AFC49ED3B1D3B339CFC"/>
+<item Name="EVENTS/EVENTS_COMMON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/events_common_17-07-08_11_02_2026_3ee81f555e0fbd88a109780a9cdbb90e_724131757_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="0" Size="185987" Hash="339C6048772E9E5E9E2F34F4C09381D3"/>
 <item Name="EVENTS/HALLOWEEN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/halloween_25_19-43-54_25_11_2025_ea192705caaaba963e05dc3d9de9698b_968158232_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="16870463" Hash="F0CAA6B83644BEE290F68DAE4416DC43"/>
+<item Name="EVENTS/NEW_YEAR_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/new_year_26_17-07-08_11_02_2026_19f262e8b154ebab8251fad1b5642b87_774264242_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="2873150" Hash="2C1BA0F6F46F33711BE1DD6363FC4F20"/>
 <item Name="EVENTS/RITUAL_FUNGUS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_fungus_22-13-17_26_11_2025_839e57f790b815e4aa7bf6e68973bfb9_4070671977_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="636991" Hash="D2604D05A41FFCA36D767D4FC33A1823"/>
 <item Name="EVENTS/RITUAL_HUNGER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_hunger_22-13-17_26_11_2025_b3faf79ec13277aac64118c82d176a2e_1573800612_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="890565" Hash="6A19749A00CA7AEBBF3404B4777D2DAE"/>
-<item Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_22-13-17_26_11_2025_1246e36b49b72cb4c53538dee414e374_2083104986_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="618678" Hash="469955E89E722F3160549E228A2C6812"/>
+<item Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_13-09-24_20_01_2026_e1251905f5d0458684d435a22c42c5d5_4269864019_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="618579" Hash="A482439DC2BE45EED90ED2FCD60B5A10"/>
 <item Name="EVENTS/SUMMER_FEST_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_19-43-54_25_11_2025_06d911ccfbaed71d1636852de37db11a_1495848660_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="5923647" Hash="C23B4B20CD2ACA392C57AA768E0A29BA"/>
-<item Name="VERSIONAL_CONFIGS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_16-10-45_02_12_2025_a21f1881be35d8b4e9a15fe297516054_2528349849_ios" MinVersion="2.41.8" MaxVersion="2.41.9" PlatformID="1" Attach="1" Active="0" Reload="1" Size="6240530" Hash="F28FFC7FA90BC1F38FECA87CA203817B"/>
+<item Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-18-10_19_12_2025_c2d4333d79852b8d95a93fb477874e83_364129234_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="0" Size="45323" Hash="DF0E0E94604089B81DE93E171E5E5FEC"/>
+<item Name="OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_42_claw_of_wisdom_26_16-40-40_19_02_2026_91709d18172b9b23670c9ecf68715d89_2460780582_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="423183" Hash="7D1A31DB438D550F545D21121B683165"/>
+<item Name="VERSIONAL_CONFIGS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_10-58-21_16_03_2026_7e15008a62504376740382b2ab16a4c6_3445075309_ios" MinVersion="2.41.8" MaxVersion="2.41.9" PlatformID="1" Attach="1" Active="0" Reload="1" Size="6248017" Hash="2C41F6E4E8835230C108E20273C0C484"/>
 <item Name="ZONE_2" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_2_13-01-19_24_11_2025_f15f295fea8725aca803b09d3b10f19d_4208402992_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="0" Size="15499911" Hash="6A2817DF61A3656A13EDC0649755C3EB"/>
 <item Name="ZONE_4" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_4_19-43-54_25_11_2025_6a8ee10a1944e490e47ffe40146b9d0e_1780361784_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="0" Size="13591298" Hash="4F9DE479F2E4C14151512EF09B386529"/>
-<item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_19-43-54_25_11_2025_26078fc5ce39b6cd19ac7ce8564bd160_258869600_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="103162851" Hash="084D87F10384AF10D8328401B06C1AF5"/>
+<item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-31-38_19_12_2025_7a244421644043aebf7a74780d1dfa45_127158511_ios" MinVersion="2.41.8" PlatformID="1" Attach="1" Active="0" Reload="1" Size="102975463" Hash="F9F16AAA9B68331FA75EDCD1F7A119E9"/>
 <!-- android 2.41.8 -->
 <item Name="EVENTS/HALLOWEEN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/halloween_25_14-59-13_24_11_2025_57a214e567dc75e050d56f9cadea2604_2414832207_android" MinVersion="2.41.8" PlatformID="2" Attach="1" Active="0" Reload="1" Size="21987" Hash="365119C9C9731C689B3631CE2684618D"/>
 <item Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_14-59-13_24_11_2025_f7161b8bb9da8b56e30369057478c705_3732086915_android" MinVersion="2.41.8" PlatformID="2" Attach="1" Active="0" Reload="1" Size="670427" Hash="68C33A1AC7ACADE1A2C1AF7EB7AE5A7E"/>
 <item Name="EVENTS/SUMMER_FEST_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_14-59-13_24_11_2025_429f5bc68c120af4d36c6d156e3c2c2c_2904979571_android" MinVersion="2.41.8" PlatformID="2" Attach="1" Active="0" Reload="1" Size="55299" Hash="9BBAD73D18B07FB68707BEEB74E722A2"/>
 <item Name="VERSIONAL_CONFIGS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_14-59-13_24_11_2025_4947c0f75929efc61b0a834a45a4d242_3438558367_android" MinVersion="2.41.8" MaxVersion="2.41.9" PlatformID="2" Attach="1" Active="0" Reload="1" Size="3366793" Hash="6F809A38B3AC113238130891EA1D27B1"/>
-<item Name="VERSIONAL_CONFIGS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_16-14-43_02_12_2025_a21f1881be35d8b4e9a15fe297516054_2238606874_android" MinVersion="2.41.8" MaxVersion="2.41.9" PlatformID="2" Attach="1" Active="0" Reload="1" Size="6240530" Hash="EB95F82736C53E5393EB94EA64CAA1DB"/>
 <!-- android, huawei 2.41.8 -->
+<item Name="EVENTS/CNY25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/cny25_17-50-02_10_02_2026_875379b187723c253d90553278f0c545_3779477645_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="5166241" Hash="FD6C70D6E960EFFDE2C14C79F887DF16"/>
+<item Name="EVENTS/CNY26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/cny26_17-10-53_11_02_2026_34555c5d95d59e873469b6450ffd6e9e_2516649217_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="1087126" Hash="BA77210DF933885635A10C65CBCBC9FA"/>
+<item Name="EVENTS/EVENTS_COMMON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/events_common_17-10-53_11_02_2026_2748057eb90915eb18c988f5ac962a66_1503175109_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="185974" Hash="F91723DB6DB52439C3A1B96ACC45A26C"/>
 <item Name="EVENTS/HALLOWEEN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/halloween_25_19-50-48_25_11_2025_fc8e41e78ec3256959bbb71be6b86d1d_2650516399_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="16988222" Hash="65F9DE72F53E2C212B17AA7E1A16898A"/>
+<item Name="EVENTS/NEW_YEAR_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/new_year_26_17-10-53_11_02_2026_80e62370eebb25be28b8a96e86b514b5_4253307953_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="2971509" Hash="A5A46055DCAB0DBBD9C1DE38B02125E0"/>
 <item Name="EVENTS/RITUAL_FUNGUS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_fungus_22-16-55_26_11_2025_8052de3c94d40c744bef7c56aac2c655_3060408325_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="692730" Hash="A4B998B204C203EFA46AFB0930D6C49C"/>
 <item Name="EVENTS/RITUAL_HUNGER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_hunger_22-16-55_26_11_2025_ef90d0d4393d3b2cad048e9acea32f5f_17549076_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="944060" Hash="89712FC8C547BCD630782FAF3DFBBE42"/>
-<item Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_22-16-55_26_11_2025_460d8a5ed8f645ca947124bf5828278c_2829254656_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="670428" Hash="FFEA60AE8C77326E617D7C72D6BB7484"/>
+<item Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_13-13-01_20_01_2026_b1e1feae4273e676ae8f11744f6ac781_442744508_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="670309" Hash="F1B116265C69D51A53927761D74FE6EE"/>
 <item Name="EVENTS/SUMMER_FEST_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_19-50-48_25_11_2025_b241facee05988b41006e65d3d9f5f4f_1763890474_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="7937754" Hash="141DD26F57343503EC1D6C7AC859C063"/>
+<item Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-38-15_19_12_2025_59236c65de082613abbb318fd79cff10_1307009940_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="45289" Hash="BE2FD6C66AA02014170798AC453B3E02"/>
+<item Name="OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_42_claw_of_wisdom_26_16-44-43_19_02_2026_d7fa99ef264c5d179d3c2b4d58ac0c43_2009624011_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="423187" Hash="06C06DE84BD22B32E27D69867E296577"/>
+<item Name="VERSIONAL_CONFIGS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_11-18-10_16_03_2026_7e15008a62504376740382b2ab16a4c6_26565578_android" MinVersion="2.41.8" MaxVersion="2.41.9" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="6248017" Hash="4340CF8752B5FA82CFE1B9F7891A5B4F"/>
 <item Name="ZONE_2" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_2_13-20-21_24_11_2025_00872616b91397bc5a1b0fcd08bd0395_3946112396_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="15497050" Hash="1768D4E15B5B8147419D3146CAE67F1C"/>
 <item Name="ZONE_4" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_4_19-50-48_25_11_2025_b4ff6b5ec6a149f167909426b77c49a3_3553739910_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="0" Size="13589818" Hash="714A2B43F927F036AE28857D32F7405D"/>
-<item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_19-50-48_25_11_2025_be0aa0948dfb9c61bf841a95ec5008b0_2939153459_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="103173047" Hash="BDC714C7C3AB33E1CCD19821542BFBE1"/>
+<item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-35-59_19_12_2025_16c4c38392420d3b13d58995488f2847_797637481_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="102991834" Hash="B1AE40C276CBD922ADB0F62CED242117"/>
+<!-- local 2.41.8 -->
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_0" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="401930797" Hash="068FC8E5E7902BE2B7E0949337154126"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_0" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="18018" Hash="3F7B223D3A8FC26C97D7DDEE43FF595F"/>
 <item Name="MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/MOD_1_0_1" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="414353499" Hash="3C52123ED193F9B0B68B5D82D771A5F1"/>
@@ -989,17 +1253,16 @@
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_10" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="14350463" Hash="D5FD9F323A791B54BB36DE0B9F0E859D"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_11" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="2965074" Hash="5CFEC3939267089B04DA5413EE963189"/>
 <item Name="CONFIG_MOD" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/CONFIG_MOD_1_0_12" MinVersion="2.41.6" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="2965083" Hash="36C27A8F13D78E20CC304F17D900F98B"/>
-<!-- local 2.41.8 -->
 </packs>
 <price>
 <!-- iOS -->
 <item ID="4" Name="Pile_Gems" Price="2.99" ProductID="com.nekki.shadowfight.jemspack1" Amount="100.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="" EndDate="" NewAmount="130" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0"/>
-<item ID="5" Name="Casket_Gems" Price="9.99" ProductID="com.nekki.shadowfight.jemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="520" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="20"/>
-<item ID="5" Name="Casket_Gems_Zone7" Price="9.99" ProductID="com.nekki.shadowfight.jemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="520" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="20"/>
-<item ID="28" Name="Bag_Gems" Price="19.99" ProductID="com.nekki.shadowfight.jemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="1200" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="35"/>
-<item ID="28" Name="Bag_Gems_Zone7" Price="19.99" ProductID="com.nekki.shadowfight.jemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="1200" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="35"/>
-<item ID="6" Name="Chest_Gems" Price="49.99" ProductID="com.nekki.shadowfight.jemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="1764291600" EndDate="1764547140" NewAmount="3250" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="50"/>
-<item ID="6" Name="Chest_Gems_Zone7" Price="49.99" ProductID="com.nekki.shadowfight.jemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="1764291600" EndDate="1764547140" NewAmount="3250" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="50"/>
+<item ID="5" Name="Casket_Gems" Price="9.99" ProductID="com.nekki.shadowfight.jemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="600" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="20"/>
+<item ID="5" Name="Casket_Gems_Zone7" Price="9.99" ProductID="com.nekki.shadowfight.jemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="600" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="20"/>
+<item ID="28" Name="Bag_Gems" Price="19.99" ProductID="com.nekki.shadowfight.jemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="1350" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="35"/>
+<item ID="28" Name="Bag_Gems_Zone7" Price="19.99" ProductID="com.nekki.shadowfight.jemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="1350" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="35"/>
+<item ID="6" Name="Chest_Gems" Price="49.99" ProductID="com.nekki.shadowfight.jemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="1772758800" EndDate="1773014100" NewAmount="3750" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="50"/>
+<item ID="6" Name="Chest_Gems_Zone7" Price="49.99" ProductID="com.nekki.shadowfight.jemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="1772758800" EndDate="1773014100" NewAmount="3750" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="50"/>
 <item ID="4" Name="Pile_Gems_sale30" Price="1.99" ProductID="com.nekki.shadowfight.jemspack1_30" Amount="0.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0"/>
 <item ID="5" Name="Casket_Gems_sale30" Price="6.99" ProductID="com.nekki.shadowfight.jemspack2_30" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="20"/>
 <item ID="5" Name="Casket_Gems_Zone7_sale30" Price="6.99" ProductID="com.nekki.shadowfight.jemspack2_30" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="1" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="20"/>
@@ -1248,14 +1511,16 @@
 <item ID="282" Name="WeeklyOffer_38" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_38" PlatformID="1" ProductType="2" Currency="230" AddCurrency="0" Sign="$" SignCode="USD"/>
 <item ID="283" Name="WeeklyOffer_39" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_39" PlatformID="1" ProductType="2" Currency="231" AddCurrency="0" Sign="$" SignCode="USD"/>
 <item ID="284" Name="WeeklyOffer_40" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_40" PlatformID="1" ProductType="2" Currency="232" AddCurrency="0" Sign="$" SignCode="USD"/>
+<item ID="285" Name="WeeklyOffer_41" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_41" PlatformID="1" ProductType="2" Currency="233" AddCurrency="0" Sign="$" SignCode="USD"/>
+<item ID="286" Name="WeeklyOffer_42" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_42" PlatformID="1" ProductType="2" Currency="234" AddCurrency="0" Sign="$" SignCode="USD"/>
 <!-- android -->
 <item ID="10" Name="Pile_Gems" Price="2.99" ProductID="com.nekki.shadowfight.gemspack1" Amount="100.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="" EndDate="" NewAmount="130" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0" RUPrice="104.99" RUSign="₽" RUSignCode="RUB"/>
-<item ID="11" Name="Casket_Gems" Price="9.99" ProductID="com.nekki.shadowfight.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="520" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE_CASKET" AddPercent="20" RUPrice="349.99" RUSign="₽" RUSignCode="RUB"/>
-<item ID="11" Name="Casket_Gems_Zone7" Price="9.99" ProductID="com.nekki.shadowfight.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="520" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE_CASKET" AddPercent="20" RUPrice="349.99" RUSign="₽" RUSignCode="RUB"/>
-<item ID="44" Name="Bag_Gems" Price="19.99" ProductID="com.nekki.shadowfight.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1764547140" NewProductID="" StartDate="1764291600" NewAmount="1200" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="35" RUPrice="699.99" RUSign="₽" RUSignCode="RUB"/>
-<item ID="44" Name="Bag_Gems_Zone7" Price="19.99" ProductID="com.nekki.shadowfight.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1764547140" NewProductID="" StartDate="1764291600" NewAmount="1200" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="35" RUPrice="699.99" RUSign="₽" RUSignCode="RUB"/>
-<item ID="12" Name="Chest_Gems" Price="49.99" ProductID="com.nekki.shadowfight.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="1764291600" EndDate="1764547140" NewAmount="3250" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="50" RUPrice="1749.99" RUSign="₽" RUSignCode="RUB"/>
-<item ID="12" Name="Chest_Gems_Zone7" Price="49.99" ProductID="com.nekki.shadowfight.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="1764291600" EndDate="1764547140" NewAmount="3250" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="50" RUPrice="1749.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="11" Name="Casket_Gems" Price="9.99" ProductID="com.nekki.shadowfight.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="600" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE_CASKET" AddPercent="20" RUPrice="349.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="11" Name="Casket_Gems_Zone7" Price="9.99" ProductID="com.nekki.shadowfight.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="600" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE_CASKET" AddPercent="20" RUPrice="349.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="44" Name="Bag_Gems" Price="19.99" ProductID="com.nekki.shadowfight.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1773014100" NewProductID="" StartDate="1772758800" NewAmount="1350" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="35" RUPrice="699.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="44" Name="Bag_Gems_Zone7" Price="19.99" ProductID="com.nekki.shadowfight.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" EndDate="1773014100" NewProductID="" StartDate="1772758800" NewAmount="1350" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="35" RUPrice="699.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="12" Name="Chest_Gems" Price="49.99" ProductID="com.nekki.shadowfight.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="1772758800" EndDate="1773014100" NewAmount="3750" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="50" RUPrice="1749.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="12" Name="Chest_Gems_Zone7" Price="49.99" ProductID="com.nekki.shadowfight.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="1772758800" EndDate="1773014100" NewAmount="3750" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="50" RUPrice="1749.99" RUSign="₽" RUSignCode="RUB"/>
 <item ID="4" Name="Pile_Gems_sale30" Price="1.99" ProductID="com.nekki.shadowfight.gemspack1_30" Amount="0.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0" RUPrice="69.99" RUSign="₽" RUSignCode="RUB"/>
 <item ID="5" Name="Casket_Gems_sale30" Price="6.99" ProductID="com.nekki.shadowfight.gemspack2_30" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="20" RUPrice="244.99" RUSign="₽" RUSignCode="RUB"/>
 <item ID="5" Name="Casket_Gems_Zone7_sale30" Price="6.99" ProductID="com.nekki.shadowfight.gemspack2_30" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="2" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="20" RUPrice="244.99" RUSign="₽" RUSignCode="RUB"/>
@@ -1504,6 +1769,8 @@
 <item ID="282" Name="WeeklyOffer_38" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_38" PlatformID="2" ProductType="2" Currency="230" AddCurrency="0" Sign="$" SignCode="USD" RUPrice="104.99" RUSign="₽" RUSignCode="RUB"/>
 <item ID="283" Name="WeeklyOffer_39" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_39" PlatformID="2" ProductType="2" Currency="231" AddCurrency="0" Sign="$" SignCode="USD" RUPrice="104.99" RUSign="₽" RUSignCode="RUB"/>
 <item ID="284" Name="WeeklyOffer_40" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_40" PlatformID="2" ProductType="2" Currency="232" AddCurrency="0" Sign="$" SignCode="USD" RUPrice="104.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="285" Name="WeeklyOffer_41" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_41" PlatformID="2" ProductType="2" Currency="233" AddCurrency="0" Sign="$" SignCode="USD" RUPrice="104.99" RUSign="₽" RUSignCode="RUB"/>
+<item ID="286" Name="WeeklyOffer_42" Price="2.99" ProductID="com.nekki.shadowfight.weekly_offer_42" PlatformID="2" ProductType="2" Currency="234" AddCurrency="0" Sign="$" SignCode="USD" RUPrice="104.99" RUSign="₽" RUSignCode="RUB"/>
 <!-- local -->
 <!-- samsung -->
 <item ID="10" Name="Pile_Gems" Price="2.99" ProductID="com.nekki.shadowfight.samsung.gemspack1" Amount="100.00" AddAmount="0" SpenderTypeID="" PlatformID="9" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0"/>
@@ -1561,12 +1828,12 @@
 <item ID="58" Name="NY21EventPack" Price="1.99" ProductID="com.nekki.shadowfight.samsung.ny21_pack_offer" PlatformID="9" ProductType="2" Currency="12" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent=""/>
 <!-- huawei -->
 <item ID="10" Name="Pile_Gems" Price="2.99" ProductID="com.nekki.shadowfight.huawei.gemspack1" Amount="100.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="" EndDate="" NewAmount="130" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0"/>
-<item ID="11" Name="Casket_Gems" Price="9.99" ProductID="com.nekki.shadowfight.huawei.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="520" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE_CASKET" AddPercent="20"/>
-<item ID="11" Name="Casket_Gems_Zone7" Price="9.99" ProductID="com.nekki.shadowfight.huawei.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1764547140" StartDate="1764291600" NewAmount="520" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE_CASKET" AddPercent="20"/>
-<item ID="44" Name="Bag_Gems" Price="19.99" ProductID="com.nekki.shadowfight.huawei.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1764547140" NewProductID="" StartDate="1764291600" NewAmount="1200" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="35"/>
-<item ID="44" Name="Bag_Gems_Zone7" Price="19.99" ProductID="com.nekki.shadowfight.huawei.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1764547140" NewProductID="" StartDate="1764291600" NewAmount="1200" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="35"/>
-<item ID="12" Name="Chest_Gems" Price="49.99" ProductID="com.nekki.shadowfight.huawei.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="1764291600" EndDate="1764547140" NewAmount="3250" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="50"/>
-<item ID="12" Name="Chest_Gems_Zone7" Price="49.99" ProductID="com.nekki.shadowfight.huawei.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="1764291600" EndDate="1764547140" NewAmount="3250" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="50"/>
+<item ID="11" Name="Casket_Gems" Price="9.99" ProductID="com.nekki.shadowfight.huawei.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="600" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE_CASKET" AddPercent="20"/>
+<item ID="11" Name="Casket_Gems_Zone7" Price="9.99" ProductID="com.nekki.shadowfight.huawei.gemspack2" Amount="400.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1773014100" StartDate="1772758800" NewAmount="600" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE_CASKET" AddPercent="20"/>
+<item ID="44" Name="Bag_Gems" Price="19.99" ProductID="com.nekki.shadowfight.huawei.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1773014100" NewProductID="" StartDate="1772758800" NewAmount="1350" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="35"/>
+<item ID="44" Name="Bag_Gems_Zone7" Price="19.99" ProductID="com.nekki.shadowfight.huawei.gemspack4" Amount="900.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" EndDate="1773014100" NewProductID="" StartDate="1772758800" NewAmount="1350" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="35"/>
+<item ID="12" Name="Chest_Gems" Price="49.99" ProductID="com.nekki.shadowfight.huawei.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="1772758800" EndDate="1773014100" NewAmount="3750" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="COMMON_RUBY_DONATE" AddPercent="50"/>
+<item ID="12" Name="Chest_Gems_Zone7" Price="49.99" ProductID="com.nekki.shadowfight.huawei.gemspack3" Amount="2500.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="1772758800" EndDate="1773014100" NewAmount="3750" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="ZONE_7_DONATE" AddPercent="50"/>
 <item ID="10" Name="Pile_Gems_s" Price="2.99" ProductID="com.nekki.shadowfight.huawei.gemspack1_s" Amount="130.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="0"/>
 <item ID="11" Name="Casket_Gems_s" Price="9.99" ProductID="com.nekki.shadowfight.huawei.gemspack2_s" Amount="520.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="" EndDate="" NewAmount="" NewAddAmount="" NewProductID="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="20"/>
 <item ID="44" Name="Bag_Gems_s" Price="19.99" ProductID="com.nekki.shadowfight.huawei.gemspack4_s" Amount="1170.00" AddAmount="0" SpenderTypeID="" PlatformID="11" ProductType="1" StartDate="" EndDate="" NewProductID="" NewAmount="" NewAddAmount="" NewPrice="" Currency="2" AddCurrency="0" Sign="$" SignCode="USD" Label="" GroupID="" AddPercent="35"/>
@@ -1806,6 +2073,8 @@
 <item ID="283" Name="WeeklyOffer_38" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_38" PlatformID="11" ProductType="2" Currency="230" AddCurrency="0" Sign="$" SignCode="USD"/>
 <item ID="284" Name="WeeklyOffer_39" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_39" PlatformID="11" ProductType="2" Currency="231" AddCurrency="0" Sign="$" SignCode="USD"/>
 <item ID="285" Name="WeeklyOffer_40" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_40" PlatformID="11" ProductType="2" Currency="232" AddCurrency="0" Sign="$" SignCode="USD"/>
+<item ID="286" Name="WeeklyOffer_41" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_41" PlatformID="11" ProductType="2" Currency="233" AddCurrency="0" Sign="$" SignCode="USD"/>
+<item ID="287" Name="WeeklyOffer_42" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_42" PlatformID="11" ProductType="2" Currency="234" AddCurrency="0" Sign="$" SignCode="USD"/>
 </price>
 <currency>
 <item ID="1" Name="Gold" Alias="money"/>
@@ -2030,6 +2299,8 @@
 <item ID="230" Name="WeeklyOffer_38" Alias="WeeklyOffer_38"/>
 <item ID="231" Name="WeeklyOffer_39" Alias="WeeklyOffer_39"/>
 <item ID="232" Name="WeeklyOffer_40" Alias="WeeklyOffer_40"/>
+<item ID="233" Name="WeeklyOffer_41" Alias="WeeklyOffer_41"/>
+<item ID="234" Name="WeeklyOffer_42" Alias="WeeklyOffer_42"/>
 </currency>
 <payments>
 <item ProductType="1" Name="Consumable"/>
