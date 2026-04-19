@@ -1,0 +1,114 @@
+{
+  "test_global": {
+    "name": "NEON ASCENSION",
+    "names": {
+      "ru": "НЕОНОВОЕ ВОЗНЕСЕНИЕ",
+      "en": "NEON ASCENSION"
+    },
+    "endDate": "2026-05-19T00:00:00Z",
+    "levels": [
+      {
+        "level": 1,
+        "xp": 500,
+        "free": {
+          "type": "coins",
+          "amount": 100,
+          "names": {
+            "ru": "100 Монет",
+            "en": "100 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        }
+      },
+      {
+        "level": 2,
+        "xp": 1000,
+        "free": {
+          "type": "dice",
+          "skin": "wood",
+          "name": "Wooden Dice",
+          "names": {
+            "ru": "Деревянные Кубики",
+            "en": "Wooden Dice"
+          }
+        },
+        "premium": {
+          "type": "dice",
+          "skin": "gold",
+          "name": "Golden Dice",
+          "names": {
+            "ru": "Золотые Кубики",
+            "en": "Golden Dice"
+          }
+        }
+      },
+      {
+        "level": 3,
+        "xp": 1500,
+        "free": {
+          "type": "coins",
+          "amount": 200,
+          "names": {
+            "ru": "200 Монет",
+            "en": "200 Coins"
+          }
+        },
+        "premium": {
+          "type": "pawn",
+          "id": "pawn_server",
+          "name": "Server Rack",
+          "names": {
+            "ru": "Серверная Стойка",
+            "en": "Server Rack"
+          }
+        }
+      },
+      {
+        "level": 4,
+        "xp": 2000,
+        "free": {
+          "type": "coins",
+          "amount": 300,
+          "names": {
+            "ru": "300 Монет",
+            "en": "300 Coins"
+          }
+        },
+        "premium": {
+          "type": "theme",
+          "id": "theme_cyberpunk",
+          "name": "Cyberpunk",
+          "names": {
+            "ru": "Киберпанк Тема",
+            "en": "Cyberpunk Theme"
+          }
+        }
+      }
+    ]
+  },
+  "test_dev": {
+    "name": "ALPHA TESTING PASS",
+    "names": {
+      "ru": "БЕТА-ТЕСТ ПРОПУСК",
+      "en": "ALPHA TESTING PASS"
+    },
+    "endDate": "2026-06-19T00:00:00Z",
+    "levels": [
+      {
+        "level": 1,
+        "xp": 100,
+        "premium": {
+          "type": "coins",
+          "amount": 10000
+        }
+      }
+    ]
+  }
+}
