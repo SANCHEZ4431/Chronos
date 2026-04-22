@@ -89,7 +89,8 @@
             "ru": "Киберпанк Тема",
             "en": "Cyberpunk Theme"
           }
-        },
+        }
+      },
         {
         "level": 28,
         "xp": 100,
@@ -98,7 +99,7 @@
           "amount": 10000
         }
       }
-    }
+    ]
   },
   "test_dev": {
     "name": "ALPHA TESTING PASS",
