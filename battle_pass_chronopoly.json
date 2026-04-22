@@ -92,16 +92,12 @@
         },
         {
         "level": 28,
-        "xp": 2000,
-        "free": {
+        "xp": 100,
+        "premium": {
           "type": "coins",
-          "amount": 300,
-          "names": {
-            "ru": "300 Монет",
-            "en": "300 Coins"
-          }
+          "amount": 10000
         }
-      ]
+      }
     }
   },
   "test_dev": {
