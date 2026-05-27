@@ -1,0 +1,75 @@
+{
+  "vip_title": "👑 Elite (VIP)",
+  "commands_count": [
+    {"threshold": 100, "title": "🤖 Beginner Hacker"},
+    {"threshold": 1000, "title": "💾 Lord of Commands"},
+    {"threshold": 5000, "title": "⚙️ Console Terminator"},
+    {"threshold": 7000, "title": "🧠 Script Architect"},
+    {"threshold": 8500, "title": "⚡ System Manipulator"},
+    {"threshold": 10000, "title": "🌀 Digital Overlord"}
+  ],
+  "completed_expeditions": [
+    {"threshold": 10, "title": "🏃‍♂️ Scout"},
+    {"threshold": 50, "title": "🧭 Adventurer"},
+    {"threshold": 200, "title": "🌋 Pioneer of Worlds"},
+    {"threshold": 1000, "title": "🔮 Master of the Galaxy"},
+    {"threshold": 2000, "title": "🌌 Cosmic Pathfinder"},
+    {"threshold": 3500, "title": "🚀 Star Voyager"},
+    {"threshold": 5000, "title": "🪐 Universal Explorer"},
+    {"threshold": 7000, "title": "⚡ Dimensional Walker"},
+    {"threshold": 8500, "title": "🌠 Eternal Traveler"},
+    {"threshold": 10000, "title": "👑 Conqueror of Realms"}
+  ],
+  "quiz_wins": [
+    {"threshold": 10, "title": "🧠 Erudite"},
+    {"threshold": 50, "title": "🔮 Rift Expert"},
+    {"threshold": 150, "title": "👑 Absolute Mind"},
+    {"threshold": 500, "title": "💎 Master of Spells"},
+    {"threshold": 1000, "title": "🌌 God"},
+    {"threshold": 2000, "title": "⚡ Arcane Genius"},
+    {"threshold": 3500, "title": "🌀 Oracle of Knowledge"},
+    {"threshold": 5000, "title": "🌠 Cosmic Scholar"},
+    {"threshold": 7500, "title": "🔱 Eternal Sage"},
+    {"threshold": 10000, "title": "✨ Supreme Intelligence"}
+  ],
+  "coins": [
+    {"threshold": 50000, "title": "💰 Prosperous"},
+    {"threshold": 100000, "title": "🪙 Wealth Collector"},
+    {"threshold": 200000, "title": "💎 Rich"},
+    {"threshold": 300000, "title": "🏦 Treasury Keeper"},
+    {"threshold": 400000, "title": "⚜️ Golden Tycoon"},
+    {"threshold": 500000, "title": "👑 Coin Baron"},
+    {"threshold": 650000, "title": "🌟 Fortune Master"},
+    {"threshold": 800000, "title": "🔱 Economic Titan"},
+    {"threshold": 900000, "title": "🧿 Lord of Wealth"},
+    {"threshold": 1000000, "title": "💸 Absolute Oligarch"}
+  ],
+  "messages": [
+    {"threshold": 500, "title": "💬 Companion"},
+    {"threshold": 3000, "title": "📢 Flooder"},
+    {"threshold": 10000, "title": "🔥 Chat Legend"},
+    {"threshold": 15000, "title": "⚡ Conversation Master"},
+    {"threshold": 20000, "title": "🌀 Voice of the Server"},
+    {"threshold": 25000, "title": "🌠 Endless Speaker"}
+  ],
+  "essence": [
+    {"threshold": 50, "title": "✨ Awakened One"},
+    {"threshold": 500, "title": "🔮 Essence Master"},
+    {"threshold": 2000, "title": "🌌 Ether Lord"},
+    {"threshold": 5000, "title": "⚡ Keeper of the Flow"},
+    {"threshold": 10000, "title": "🌀 Archon of Energy"},
+    {"threshold": 25000, "title": "💠 Lord of Radiance"},
+    {"threshold": 50000, "title": "🔥 Flame Bearer"},
+    {"threshold": 75000, "title": "🌠 Abyss Seeker"},
+    {"threshold": 100000, "title": "👑 King of Essence"},
+    {"threshold": 150000, "title": "🪐 Star Overlord"},
+    {"threshold": 200000, "title": "🌙 Lunar Archmage"},
+    {"threshold": 300000, "title": "☀️ Solar Herald"},
+    {"threshold": 400000, "title": "💫 Reality Warden"},
+    {"threshold": 500000, "title": "🌌 Supreme Ether"},
+    {"threshold": 650000, "title": "⚜️ Immortal Guardian"},
+    {"threshold": 800000, "title": "🧿 Titan of Energy"},
+    {"threshold": 900000, "title": "🔱 Cosmic Sovereign"},
+    {"threshold": 1000000, "title": "🌟 Absolute Essence"}
+  ]
+}
