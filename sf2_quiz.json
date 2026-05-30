@@ -299,5 +299,20 @@
     {
         "question": "What is Blackness's true Identity?",
         "answer": ["May"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/raidboss_hw26_nova.png",
+        "answer": ["nova"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/raidboss_summer26_nova.png",
+        "answer": ["nova"]
+    },
+    {
+        "question": "Who is this character?",
+        "link_img": "https://raw.githubusercontent.com/SANCHEZ4431/Chronos/refs/heads/main/images/raidboss_chny27_nova.png",
+        "answer": ["nova"]
     }
 ]
