@@ -9,7 +9,7 @@
     "backgroundColor": "linear-gradient(135deg, rgba(31, 2, 40, 0.9) 0%, rgba(63, 31, 73, 0.9) 100%)",
     "borderColor": "rgba(100, 21, 124, 0.9)",
     "textColor": "#ab34eb",
-    "badgeColor": "linear-gradient(135deg, #512769 0%, #390654 100%)",
+    "badgeColor": "linear-gradient(135deg, #afa8b3 0%, #afa8b3 100%)",
     "icon": "sprite/bp_neon_asc.png",
     "iconGlow": "rgba(176, 7, 229, 0.9)",
     "endDate": "2026-07-11T00:00:00Z",
