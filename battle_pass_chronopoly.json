@@ -6,7 +6,7 @@
       "en": "NEON ASCENSION"
     },
     "progressColor": "linear-gradient(90deg, #7a12b3 0%, #44046b 100%)",
-    "backgroundColor": "linear-gradient(135deg, rgba(158, 43, 194, 0.8) 0%, rgba(171, 8, 223, 0.8) 100%)",
+    "backgroundColor": "linear-gradient(135deg, rgba(63, 31, 73, 0.9) 0%, rgba(31, 2, 40, 0.9) 100%)",
     "borderColor": "rgba(100, 21, 124, 0.9)",
     "textColor": "#ab34eb",
     "badgeColor": "linear-gradient(135deg, #512769 0%, #390654 100%)",
