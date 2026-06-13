@@ -2,8 +2,8 @@
   "test_global_recovery": {
     "name": "NEON ASCENSION",
     "names": {
-      "ru": "НЕОНОВОЕ ВОЗНЕСЕНИЕ",
-      "en": "NEON ASCENSION"
+      "ru": "НЕОНОВОЕ ВОЗНЕСЕНИЕ {sprite/bp_neon_asc.png}",
+      "en": "NEON ASCENSION {sprite/bp_neon_asc.png}"
     },
     "progressColor": "linear-gradient(90deg, #7a12b3 0%, #44046b 100%)",
     "backgroundColor": "linear-gradient(135deg, rgba(31, 2, 40, 0.9) 0%, rgba(63, 31, 73, 0.9) 100%)",
