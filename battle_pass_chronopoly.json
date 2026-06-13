@@ -5,6 +5,7 @@
       "ru": "НЕОНОВОЕ ВОЗНЕСЕНИЕ",
       "en": "NEON ASCENSION"
     },
+    "progressColor": "linear-gradient(90deg, #facc15 0%, #eab308 100%)",
     "endDate": "2026-07-11T00:00:00Z",
     "levels": [
       {
@@ -107,6 +108,7 @@
       "ru": "БЕТА-ТЕСТ ПРОПУСК",
       "en": "ALPHA TESTING PASS"
     },
+    "progressColor": "linear-gradient(90deg, #3b82f6 0%, #10b981 100%)",
     "endDate": "2026-12-31T00:00:00Z",
     "levels": [
       {
