@@ -6,6 +6,12 @@
       "en": "NEON ASCENSION"
     },
     "progressColor": "linear-gradient(90deg, #7a12b3 0%, #44046b 100%)",
+    "backgroundColor": "linear-gradient(135deg, rgba(158, 43, 194, 0.8) 0%, rgba(171, 8, 223, 0.8) 100%)",
+    "borderColor": "rgba(100, 21, 124, 0.9)",
+    "textColor": "#ab34eb",
+    "badgeColor": "linear-gradient(135deg, #512769 0%, #390654 100%)",
+    "icon": "sprite/bp_neon_asc.png",
+    "iconGlow": "rgba(176, 7, 229, 0.9)",
     "endDate": "2026-07-11T00:00:00Z",
     "levels": [
       {
@@ -108,7 +114,13 @@
       "ru": "БЕТА-ТЕСТ ПРОПУСК",
       "en": "ALPHA TESTING PASS"
     },
-    "progressColor": "linear-gradient(90deg, #3b82f6 0%, #10b981 100%)",
+    "progressColor": "linear-gradient(90deg, #7a12b3 0%, #44046b 100%)",
+    "backgroundColor": "linear-gradient(135deg, rgba(158, 43, 194, 0.8) 0%, rgba(171, 8, 223, 0.8) 100%)",
+    "borderColor": "rgba(100, 21, 124, 0.9)",
+    "textColor": "#ab34eb",
+    "badgeColor": "linear-gradient(135deg, #512769 0%, #390654 100%)",
+    "icon": "sprite/bp_neon_asc.png",
+    "iconGlow": "rgba(176, 7, 229, 0.9)",
     "endDate": "2026-12-31T00:00:00Z",
     "levels": [
       {
