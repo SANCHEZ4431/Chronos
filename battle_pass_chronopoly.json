@@ -12,7 +12,7 @@
     "badgeColor": "linear-gradient(135deg, #afa8b3 0%, #afa8b3 100%)",
     "icon": "sprite/bp_neon_asc.png",
     "iconGlow": "rgba(176, 7, 229, 0.9)",
-    "endDate": "2026-07-11T00:00:00Z",
+    "endDate": "2026-09-11T00:00:00Z",
     "levels": [
       {
         "level": 1,
