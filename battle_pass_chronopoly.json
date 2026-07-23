@@ -17,6 +17,7 @@
       {
         "level": 1,
         "xp": 500,
+        "level_type": "default",
         "free": {
           "type": "coins",
           "amount": 100,
@@ -37,6 +38,7 @@
       {
         "level": 2,
         "xp": 1000,
+        "level_type": "default",
         "free": {
           "type": "dice",
           "skin": "wood",
@@ -59,6 +61,7 @@
       {
         "level": 3,
         "xp": 1500,
+        "level_type": "default",
         "free": {
           "type": "coins",
           "amount": 200,
@@ -80,6 +83,7 @@
       {
         "level": 4,
         "xp": 2000,
+        "level_type": "default",
         "free": {
           "type": "coins",
           "amount": 300,
@@ -98,12 +102,130 @@
           }
         }
       },
-        {
+      {
         "level": 5,
-        "xp": 100,
+        "xp": 2500,
+        "level_type": "default",
+        "free": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        },
         "premium": {
           "type": "coins",
-          "amount": 10000
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
+        }
+      },
+      {
+        "level": 6,
+        "xp": 2500,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "xp": 2500,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
+        }
+      },
+      {
+        "level": 8,
+        "xp": 2500,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
+        }
+      },
+      {
+        "level": 9,
+        "xp": 2500,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
+        }
+      },
+      {
+        "level": 10,
+        "xp": 2500,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 500,
+          "names": {
+            "ru": "500 Монет",
+            "en": "500 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
         }
       }
     ]
@@ -129,6 +251,48 @@
         "premium": {
           "type": "coins",
           "amount": 10000
+        }
+      },
+      {
+        "level": 2,
+        "xp": 2000,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 300,
+          "names": {
+            "ru": "300 Монет",
+            "en": "300 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
+        }
+      },
+      {
+        "level": 3,
+        "xp": 1500,
+        "level_type": "loop",
+        "free": {
+          "type": "coins",
+          "amount": 200,
+          "names": {
+            "ru": "200 Монет",
+            "en": "200 Coins"
+          }
+        },
+        "premium": {
+          "type": "coins",
+          "amount": 10000,
+          "names": {
+            "ru": "10000 Монет",
+            "en": "10000 Coins"
+          }
         }
       }
     ]
