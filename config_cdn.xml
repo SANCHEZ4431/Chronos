@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <ConfigVersion Value=""/>
+  <ConfigVersions>
+    <ConfigVersion Value="95" PlatformID="1"/>
+    <ConfigVersion Value="96" PlatformID="2"/>
+    <ConfigVersion Value="95" PlatformID="11"/>
+  </ConfigVersions>
+  <ReleaseSendLogChance Hack="1" Exc="1" NuR="1" Dbl="1" Alg="0"/>
+  <BalancerItemSortType Value="1"/>
+  <UserFractioning Chance="1"/>
+  <LocalGemsLimit Value="20000"/>
+  <IgnoredExceptions>
+    <ExcData PartName="" PartStackTrace="" PartLog=""/>
+    <ExcData PartName=""/>
+    <ExcData/>
+    <ExcData PartName="Socket" PartStackTrace="CUDLR" PartLog="address"/>
+    <ExcData PartName="Exc1" PartStackTrace="RaidBetaLog" PartLog=""/>
+    <ExcData PartName="Exc2" PartStackTrace="" PartLog=""/>
+    <ExcData PartName="Exc2" PartStackTrace="" PartLog="text"/>
+    <ExcData PartName="Exc2_AND" PartStackTrace="" PartLog="" Platform="And"/>
+    <ExcData PartName="Exc2_IOS" PartStackTrace="" PartLog="" Platform="IOS"/>
+    <ExcData PartName="" PartStackTrace="OOAOOABFIME+BACLLJGHFHJ" PartLog=""/>
+    <ExcData PartName="" PartStackTrace="EKLKAMMDADG+EJFGBFBHIKN" PartLog=""/>
+  </IgnoredExceptions>
+  <Variables>
+    <item Name="WeeklyOffer_40_End" Value="1762387140" PlatformID="1,2,11" MinVersion=""/>
+  </Variables>
+  <RevenueMultipliers>
+    <Multiplier Type="DEFAULT" Value="0.7"/>
+    <Multiplier Type="IOS" Value="0.7"/>
+    <Multiplier Type="ANDROID" Value="0.7"/>
+    <Multiplier Type="XSOLLA" Value="0.6"/>
+    <Multiplier Type="UMONEY" Value="0.95"/>
+  </RevenueMultipliers>
+  <platform>
+    <item PlatformID="1" Name="iOS"/>
+    <item PlatformID="2" Name="Android"/>
+    <item PlatformID="3" Name="Simulator"/>
+    <item PlatformID="9" Name="Samsung"/>
+    <item PlatformID="11" Name="Huawei"/>
+    <item PlatformID="13" Name="iOSChina"/>
+  </platform>
+  <versions>
+    <item ID="8" PlatformID="2" Version="" ReleaseDate=""/>
+    <item ID="9" PlatformID="1" Version="" ReleaseDate=""/>
+    <item ID="11" PlatformID="9" Version="" ReleaseDate=""/>
+    <item ID="12" PlatformID="11" Version="" ReleaseDate=""/>
+    <item ID="13" PlatformID="13" Version="" ReleaseDate=""/>
+  </versions>
+  <IconDojo>
+  </IconDojo>
+  <news>
+    <item ID="1" Name="Sale_RU3" PlatformID="1" LangID="ru" MinVersion="1.9.7" SpenderTypeID="" EndDate="1762127940" StartDate="1761868860" ImageURL="https://assets.nekki.com/shadowfight/news/sale/halloween_1/gems_spheres_chests/rus.jpg" ImageURLHash="3B032E1FB1B140C3AD629C5A9C4F7D38">
+      <Button Text="compareCloseBtn" Color="Beige" Url=""/>
+      <Button Text="dlgBtnRedirect" Color="Green" Url="" RedirectShop="com.nekki.shadowfight.jemspack2"/>
+    </item>
+  </news>
+  <video>
+    <item ID="135" Name="Shadow_fight_ending.mp4" Url="https://assets.nekki.com/shadowfight/video/Shadow_fight_ending.mp4" MinVersion="1.0.0" PlatformID="13" Attach="0" ObjectNumber="2" Active="0" Reload="0" Size="6174357" Hash="2fb0f27957f4147352f541774893fc24"/>
+  </video>
+  <settings>
+    <item ID="1" LogFrequency="64" LoginFrequency="900" DumpServerGet="https://shadowfight.dumps.nekkimobile.ru/get.php" DumpServerPut="https://shadowfight.dumps.nekkimobile.ru/put.php" ServerTimeUrl="https://time-server.nekkimobile.ru/time.json" CounterVideo="10" CashbackCounterVideo="10" EnergyCounterVideo="" MultiplierCounterVideo="20" SkipDeliveryCounterVideo="20" LotterySpinCounterVideo="0" MultiplyLotteryCounter="50" SurvivalRestartCounterVideo="3" RaidFightCounterVideo="10"/>
+    <time>
+      <item GetUrl="https://time-server.nekkimobile.ru/time.json"/>
+    </time>
+    <dumps>
+      <item PutUrl="https://sf2ios-dumps.nekkimobile.ru/put.new.php" GetUrl="https://sf2ios-dumps.nekkimobile.ru/get.new.php" DumpSendInterval="1200" PlatformID="1"/>
+      <item PutUrl="https://shadowfight-dumps.nekkimobile.ru/put.new.php" GetUrl="https://shadowfight-dumps.nekkimobile.ru/get.new.php" DumpSendInterval="1200" PlatformID="2"/>
+      <item PutUrl="https://sf2samsung-dumps.nekkimobile.ru/put.new.php" GetUrl="https://sf2samsung-dumps.nekkimobile.ru/get.new.php" DumpSendInterval="1200" PlatformID="9"/>
+      <item PutUrl="https://sf2huawei-dumps.nekkimobile.ru/put.new.php" GetUrl="https://sf2huawei-dumps.nekkimobile.ru/get.new.php" DumpSendInterval="1200" PlatformID="11"/>
+      <item PutUrl="https://sf2china-ios-dumps.nekkimobile.ru/put.new.php" GetUrl="https://sf2china-ios-dumps.nekkimobile.ru/get.new.php" DumpSendInterval="1200" PlatformID="13"/>
+    </dumps>
+    <server>
+      <item PutUrl="https://sf2ios.nekkimobile.ru/put.php" GetUrl="https://sf2ios.nekkimobile.ru/get.php" PlatformID="1"/>
+      <item PutUrl="https://shadowfight.nekkimobile.ru/put.php" GetUrl="https://shadowfight.nekkimobile.ru/get.php" PlatformID="2"/>
+      <item PutUrl="https://sf2samsung.nekkimobile.ru/put.php" GetUrl="https://sf2samsung.nekkimobile.ru/get.php" PlatformID="9"/>
+      <item PutUrl="https://sf2huawei.nekkimobile.ru/put.php" GetUrl="https://sf2huawei.nekkimobile.ru/get.php" PlatformID="11"/>
+      <item PutUrl="https://sf2china-ios.nekkimobile.ru/put.php" GetUrl="https://sf2china-ios.nekkimobile.ru/get.php" PlatformID="13"/>
+    </server>
+    <raids configUrl="https://assets.nekki.com/raid_configs/master/raid_configs_all.zip"/>
+    <notifications>
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="1"/>
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="2"/>
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="9"/>
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="11"/>
+      <item ResheduleNotificationEnabled="0" ResheduleNotificationDelay="0" PlatformID="13"/>
+    </notifications>
+  </settings>
+  <packs>
+    <item Name="TEST" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_13-20-21_24_11_2025_cfcf50f613d9188b326ad820ab093048_3556297200_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="102944779" Hash="75AC5E9CEFE399B86E7EA15DE5E05252"/>
+  </packs>
+  <price>
+    <item ID="285" Name="WeeklyOffer_40" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_40" PlatformID="11" ProductType="2" Currency="232" AddCurrency="0" Sign="$" SignCode="USD"/>
+  </price>
+  <currency>
+    <item ID="1" Name="Gold" Alias="money"/>
+    <item ID="2" Name="Bonus" Alias="bonus"/>
+  </currency>
+  <payments>
+    <item ProductType="1" Name="Consumable"/>
+    <item ProductType="2" Name="Nonconsumable"/>
+  </payments>
+</data>
