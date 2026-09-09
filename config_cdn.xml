@@ -88,7 +88,7 @@
     </notifications>
   </settings>
   <packs>
-    <item Name="TEST" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_13-20-21_24_11_2025_cfcf50f613d9188b326ad820ab093048_3556297200_android" MinVersion="2.41.8" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="102944779" Hash="75AC5E9CEFE399B86E7EA15DE5E05252"/>
+    <item Name="TEST" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/TEST.sfdata" MinVersion="1.0.1" PlatformID="2,3, 11" Attach="1" Active="0" Reload="1" Size="131026748" Hash="562A403C6992FA59245BEB42E682EB6A"/>
   </packs>
   <price>
     <item ID="285" Name="WeeklyOffer_40" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_40" PlatformID="11" ProductType="2" Currency="232" AddCurrency="0" Sign="$" SignCode="USD"/>
