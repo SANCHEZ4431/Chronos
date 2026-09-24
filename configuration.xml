@@ -95,6 +95,9 @@
     <item Name="TEST" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/TEST_1.0.2.sfdata" MinVersion="1.0.1" PlatformID="2,3,11" Attach="1" Active="0" Reload="1" Size="165610380" Hash="B0FF6431B3100A1B3B0E25D46F90B95F"/>
     <item Name="LOCALIZATIONS" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/LOCALIZATIONS_1.0.2.sfdata" MinVersion="1.0.1" MaxVersion="1.0.2" PlatformID="2,3,11" Attach="1" Active="0" Reload="1" Size="2356972" Hash="E1954984D5D5B3CABA2AAB14D10F6570"/>
     <item Name="LOCATION ICON" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/LOCATION.ICON.sfdata" MinVersion="1.0.1" PlatformID="2,3,11" Attach="1" Active="0" Reload="1" Size="4901052" Hash="36913DA228EDC4ACAC550FCFEEBF05A3"/>
+    <item Name="ATLASES" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/ATLASES_1.0.1.sfdata" MinVersion="1.0.1" PlatformID="2,3,11" Attach="1" Active="0" Reload="1" Size="51160668" Hash="93EBF5BEF591051C1645146D25D70593"/>
+    <item Name="TEXTURES" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/TEXTURES.sfdata" MinVersion="1.0.1" PlatformID="2,3,11" Attach="1" Active="0" Reload="1" Size="38505852" Hash="69BA0A4BCBCA32BB134C9C5955C35786"/>
+    <item Name="TEST" Url="https://github.com/SANCHEZ4431/Chronos/releases/download/Test/TEST_1.0.4.sfdata" MinVersion="1.0.1" PlatformID="2,3,11" Attach="1" Active="0" Reload="1" Size="77809068" Hash="5B98F7ABC5E71D2D19078058BF0CAE72"/>
   </packs>
   <price>
     <item ID="285" Name="WeeklyOffer_40" Price="2.99" ProductID="com.nekki.shadowfight.huawei.weekly_offer_40" PlatformID="11" ProductType="2" Currency="232" AddCurrency="0" Sign="$" SignCode="USD"/>
